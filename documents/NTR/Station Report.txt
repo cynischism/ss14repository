@@ -1,0 +1,123 @@
+# Shift Report
+
+[color=DimGray][mono]>> Initializing NTOS v6.7... [color=green]OK[/color]
+>> Loading Station Report... [color=green]OK[/color][/mono][/color]
+
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]NTOS v6.7 STATION REPORT TERMINAL[/head]
+[color=#134975]█ ▀█[color=#2f2f3b]  ░[/color]█[/color][color=#2f2f3b]░  [/color][color=DimGray][bold]REPORT ID: NT-5443-25[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=3]1. REPORT INFORMATION[/head]
+[color=DimGray]──────────────────────────────────────────[/color]
+[mono]Station[/mono] — [bold]Shift #[/bold][mono]0[/mono]
+[bold]Shift Duration:[/bold] [mono]00:00:00[/mono]
+[bold]Filed by:[/bold] [mono][color=#2ec398]NT Rep.[/color] Your Name[/mono]
+──────────────────────────────────────────
+[color=DimGray][bold]Oversight Authority:[/bold] [mono][color=#009100]Central Command[/color][/mono][/color]
+[color=DimGray][bold]Report Status:[/bold] [mono][color=green]Filed[/color][/mono][/color]
+[color=DimGray][bold]Protocol:[/bold] [mono][color=red]ACTIVE — LOGGING ENABLED[/color][/mono][/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]2. THREATS[/head]
+[color=DimGray]──────────────────────────────────────────[/color]
+[mono]> [/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]3. DEPARTMENTAL REPORTS[/head]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#1b67a5][head=2]Command[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#cb0000][head=2]Security[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#b18644][head=2]Cargo[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#f39f27][head=2]Engineering[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#5b97bc][head=2]Medical[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#c96dbf][head=2]Science[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#9fed58][head=2]Service[/head][/color]
+──────────────────────────────────────────
+[bold]Staffing:[/bold]     \[  ] [color=green]Full[/color]           \[  ] [color=orange]Partial[/color]        \[  ] [color=red]Critical[/color]
+[bold]Condition:[/bold] \[  ] [color=green]Excellent[/color] \[  ] [color=orange]Adequate[/color]  \[  ] [color=red]Poor[/color]
+
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=DimGray]──────────────────────────────────────────[/color]
+
+[color=#2ed2fd][head=2]Silicon[/head][/color]
+──────────────────────────────────────────
+[head=3]Notes[/head] 
+──────────────────────────────────────────
+[mono]> [/mono]
+
+[bold]Rating:[/bold] [color=orange]★★★★☆[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]4. REPRESENTATIVE NOTES[/head]
+[color=DimGray]──────────────────────────────────────────[/color]
+[mono]> [/mono]
+──────────────────────────────────────────
+[bold]Signed,[/bold] [mono][color=#2ec398]NT Rep.[/color] Your Name[/mono]
+[color=DimGray][bold]Authentication:[/bold] [mono][color=green]VALIDATED[/color][/color]

@@ -1,0 +1,63 @@
+# NT-SD-T04 Threat Brief
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]CLASSIFICATION: [color=#cb0000]LEVEL 4 – EYES ONLY[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]THREAT OVERVIEW[/bold][/head]
+Heretics are solitary occult practitioners who form pacts with extra‑dimensional entities known as patrons. Unlike cults, heretics do not recruit followers or build communal structures. Their power is personal, ritualistic, and highly variable depending on the patron they serve. Heretics operate covertly, gathering occult resources, performing rites, and hunting specific targets to fuel their ascension.
+
+Heretics are unpredictable, extremely dangerous in close quarters, and capable of inflicting severe biological, spatial, or psychological harm.
+─────────────────────────────────────────
+[head=3][bold]IDENTIFICATION MARKERS[/bold][/head]
+[bullet] Strange symbols, sigils, or occult markings appearing in maintenance.  
+[bullet] Victims found with ritual wounds, branded flesh, or missing organs.  
+[bullet] Unusual books, knives, or artifacts of unknown origin.  
+[bullet] Individuals exhibiting trance‑like focus or muttering ritual phrases.
+[bullet] Sudden disappearances followed by anomalous activity.
+─────────────────────────────────────────
+[head=3][bold]BEHAVIORAL PROFILE[/bold][/head]
+[bullet] Operates alone; avoids groups and open conflict.  
+[bullet] Selects specific crew as “marks” for ritual progression.  
+[bullet] Performs ritual sacrifice in secluded areas to avoid detection.  
+[bullet] Gains strength rapidly as rituals succeed.  
+[bullet] May stalk targets for extended periods before striking.
+─────────────────────────────────────────
+[head=3][bold]THREAT CAPABILITIES[/bold][/head]
+
+[bold]Patron‑Granted Abilities[/bold]  
+[bullet] Powers vary by Patron: flesh manipulation, spatial distortion, shadow movement, or psychic assault.
+
+[bold]Ritual Progression[/bold]  
+[bullet] Heretics grow stronger by completing rites, harvesting organs, or killing marked targets.
+
+[bold]Occult Tools[/bold]  
+[bullet] Blades, tomes, and artifacts that enhance rituals or inflict severe trauma.
+
+[bold]Spatial and Sensory Distortion[/bold]  
+[bullet] Capable of vanishing, relocating, or creating illusions to evade capture.
+
+[bold]Ascension Events[/bold]  
+[bullet] Fully empowered heretics may undergo transformation into a Patron‑aligned anomaly.
+─────────────────────────────────────────
+[head=3][bold]RECOMMENDED RESPONSE[/bold][/head]
+[bullet] Sweep maintenance for sigils, ritual sites, and occult tools.  
+[bullet] Protect high‑value personnel who may be marked for sacrifice.  
+[bullet] Maintain squad cohesion; avoid solo patrols.  
+[bullet] Engage at range whenever possible; avoid close‑quarters combat.  
+[bullet] Interrupt rituals immediately to prevent heretic progression.  
+[bullet] Detain suspects carrying occult artifacts or exhibiting ritual behavior.
+─────────────────────────────────────────
+[head=3][bold]AUTHORIZED EQUIPMENT[/bold][/head]
+[bullet] Lethal weaponry.  
+[bullet] Flashbangs and crowd‑control tools.  
+[bullet] Portable floodlights for ritual disruption.   
+─────────────────────────────────────────
+[color=#cb0000][bold]THIS DOCUMENT MUST BE BURNED IMMEDIATELY AFTER READING.[/bold][/color]
