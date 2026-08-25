@@ -1,0 +1,195 @@
+#Basic Chemistry guide
+
+This guide is a step-by-step walkthrough to the basic medicines produced by Chemistry. While it is not efficient, it should serve as a handy reference for anyone who doesn't have it memorized yet.
+
+All recipes are given in ratio format. Convert to units according to ratio per 100u for a large beaker, or 50u for a standard beaker.
+
+Heat units are given in Kelvin and represent the temperature to which the chemical mixture must be heated for the chemical to be created. If you're not already familiar with the concept of a lava beaker, it's good practice to become accustomed to using them.
+
+[head=3]Basics[/head]
+These chems are typically the first thing you want to rush out, to make sure doctors can treat patients as soon as they start coming in.
+
+[bullet/]1 Silicon + 1 Nitrogen + 1 Potassium
+= [bold]3 Dylovene[/bold]
+[italic]Heals 1 poison, overdose above 20u.[/italic]
+
+[bullet/]2 Oxygen + 1 Plasma(cat.) = 3 Dexalin
+[bullet/]1 Dexalin + 1 Carbon + 1 Iron
+= [bold]3 Dexalin+[/bold]
+[italic]Heals 3.5 asphyx and 3 bloodloss. Removes 3u Heartbreaker Toxin. HARMS AVALI AND RESOMI.[/italic]
+
+[bullet/]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet/]1 Inaprovaline + 1 Carbon
+= [bold]2 Bicaridine[/bold]
+[italic]Heals 1.5 brute, overdose above 15u.[/italic]
+
+[bullet/]1 Radium + 1 Dylovene = 2 Hyronalin
+[bullet/]1 Hyronalin + 1 Hydrogen
+= [bold]2 Arithrazine[/bold]
+[italic]Heals 3 rads, deals 1.5 blunt. No OD.[/italic]
+
+[bullet/]1 Chlorine + 1 Sodium + >370K = 2 Table salt
+[bullet/]1 Table salt + 4 Water
+= [bold]5 Saline[/bold]
+[italic]Adds 6 blood level. No OD.[/italic]
+
+[head=3]Advanced Chems[/head]
+These next chems are more advanced than the basics, and are both usually more specialized and have either lower ODs or more complex mechanisms. Most of these will use the basics as precursor chemicals.
+
+[bold]Brutes[/bold]
+These chems are all common with Bicaridine. [bold]If any of the four are mixed, they will form Razorium, a deadly toxin, in the blood.[/bold] Use extra caution when treating with these chems.
+
+[bullet/]1 Bicaridine + 1 Lithium + 1 Sugar
+= [bold]2 Bruizine[/bold] + leftover lithium
+[italic]Heals 2.25 blunt, OD over 11.5u.[/italic]
+
+[bullet/]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet/]1 Bicaridine + 1 Benzene + >335K
+= [bold]2 Lacinerol[/bold]
+[italic]Heals 2 slash, deals 0.2 heat. OD over 12u.[/italic]
+
+[bullet/]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet/]1 Bicaridine + 1 Hydroxide + 325K
+= [bold]2 Puncturase[/bold]
+[italic]Heals 2.5 piercing, deals 0.05 rads. OD over 12u.[/italic]
+
+[bold]Other Useful Medicines[/bold]
+
+[bullet/]1 Silicon + 1 Carbon = 2 Kelotane
+[bullet/]1 Kelotane + 1 Oxygen + 1 Phosphorus
+= [bold]3 Dermaline[/bold]
+[italic]Heals 1.5 of all burns but caustic. OD over 10u.[/italic]
+
+[bullet/]1 Dexalin + 1 Water + 1 Oxygen
+= [bold]3 Cryoxadone[/bold]
+[italic]Repairs 3 airloss, 2 brute, 2 burn, and 2 toxin when below 213K. No OD.[/italic]
+
+[bullet/]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet/]1 Fersilicite + 1 Copper + 1 Plasma (cat.)
+= [bold]2 Leporazine[/bold]
+[italic]Heals 4 cold and stabilizes body temp. Removes 5u Fresium. No OD.[/italic]
+
+[bullet/]1 Hydrogen + 1 Water + 1 Sugar
+= [bold]3 Mannitol[/bold]
+[italic]Repairs brain damage. No OD.[/italic]
+
+[bullet/]1 Table salt + 1 Blood (RED ONLY) + 2 Hydroxide
+= [bold]4 Oculine[/bold]
+[italic]Repairs eye damage. Also contained in carrots.[/italic]
+
+[bullet/]1 Radium + 1 Phosphorus + 1 Chlorine = 3 Unstable Mutagen
+[bullet/]1 Hyronalin + 1 Ethanol + 1 Unstable Mutagen
+= [bold]3 Phalanxamine[/bold]
+[italic]Heals 0.3 cellular, deals 0.15 caustic over 1u and 0.15 rads over 11u.[/italic]
+
+[bullet/]1 Leporazine + 1 Dermaline + 1 Carbon
+= [bold]3 Pyrazine[/bold]
+[italic]Heals 1 heat. OD over 20u.[/italic]
+
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Table salt + 1 Carbon + 1 Oxygen = 4 Sodium Carbonate
+[bullet/]1 Hydroxide + 1 Sodium = 2 Sodium Hydroxide
+[bullet/]1 Sodium Carbonate + 1 Sodium Hydroxide + 1 Kelotane + 1 Water + 1 Sugar + >370K
+= [bold]4 Sigynate[/bold]
+[italic]Heals 1.25 caustic. OD over 16u, causes vomiting with Arithrazine.[/italic]
+
+[bullet/]1 Hydrogen + 1 Sulfur + 2 Oxygen = 3 Sulfuric Acid
+[bullet/]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar
+= [bold]3 Tranexamic Acid[/bold]
+[italic]Heals bleeding. Commonly combined with other brute medicines, and a common ingredient for higher-tier medicines. OD over 15u.[/italic]
+
+[bullet/]1 Inaprovaline + 1 Dylovene
+= [bold]2 Tricordrazine[/bold]
+[italic]Heals 1 burn, 1 brute, and 0.5 poison. Useless past 15 damage. Commonly used to produce Doctor's Delight, a more concentrated version in beverage form.[/italic]
+
+[head=3]VIROLOGY[/head]
+Chemistry's only role in an epidemic is to produce treatment drugs while the virologists make vaccines. These are the recipes you'll need to know.
+
+[bullet/]1 Sugar + 1 Inaprovaline + 1 Iron
+= [bold]3 Immurin[/bold]
+[italic]Improves immune function. Can help prevent spread of contagion, and treat mild cases.[/italic]
+
+[bullet/]2 Immurin + 1 Copper
+= [bold]2 Devirate[/bold]
+[italic]Treats viral infections.[/italic]
+
+[bullet/]2 Immurin + 1 Dylovene
+= [bold]3 Spaceacilin[/bold]
+[italic]Treats bacterial infections.[/italic]
+
+[bullet/]1 Zombie blood + 1 Dylovene + 1 Ammonia
+= [bold]4 Ambuzol[/bold]
+[italic]Treats Romerol infection, but does not prevent reinfection.[/italic]
+
+[bullet/]5 Ambuzol + 5 Omnizine
+= [bold]10 Ambuzol+[/bold]
+[italic]Treats Romerol infection and vaccinates against further exposure.[/italic]
+
+[bullet/]2 Bicaridine + 2 Dylovene + 2 Kelotane + 2 Dexalin
+= [bold]6 Mesophenerol[/bold]
+[italic]Treats Letoferol infection and reverts natural chimerism. Requires 40u injection.[/italic]
+
+[bullet/]5 Protoletoferol (electrolyzed Letoferol) + 2 Bicaridine + 0.5 Rhymatine
+[italic]OR[/italic]
+[bullet/]2.75 Bicaridine + 2 Omnizine + 0.25 Rhymatine + >289K
+= [bold]7.5 (protoletoferol)/5 (omnizine) Mesotaxinide[/bold]
+[italic]Treats Letoferol and Romerol infections, reverts all chimerism at 15u, heals 2.5 poison and 2.5 rads.[/italic]
+
+[head=3]Botanicals[/head]
+Another common task for chemists is to provide mutagenic agents for botany, as the best plants are locked behind cyclical mutations. As such, botanists will routinely request these chems at the start of a shift, and may request more later.
+
+[bullet/]1 Silicon + 1 Nitrogen + 1 Potassium
+= [bold]3 Dylovene[/bold]
+[italic]Heals toxic damage.[/italic]
+
+[bullet/]1 Radium + 1 Phosphorus + 1 Chlorine = 3 Unstable Mutagen
+[bullet/]1 Hyronalin + 1 Ethanol + 1 Unstable Mutagen
+= [bold]3 Phalanxamine[/bold]
+[italic]Removes the "death" gene on mutated plants.[/italic]
+
+[bullet/]1 Nitrogen + 1 Phosphorus + 1 Potassium
+= [bold]3 EZ Nutrient[/bold]
+[italic]Exactly what it says on the tin.[/italic]
+
+[bullet/]1 EZ Nutrient + 1 Sulfuric Acid (cat.)
+= [bold]1 Robust Harvest[/bold]
+[italic]Increases a plant's yield at the cost of its seeds.[/italic]
+
+[bullet/]3 Robust Harvest + 3 Diethylamine + 1 Cryoxadone
+= 1 [bold]Sedin[/bold]
+[italic]Restores a plant's seeds at the cost of its yield. The inverse of Robust Harvest.[/italic]
+
+[bullet/]1 Radium + 1 Phosphorus + 1 Chlorine
+= [bold]3 Unstable Mutagen[/bold]
+[italic]Induces mutation in plants. Highly toxic.[/italic]
+
+[bullet/]1 EZ Nutrient + 1 Radium (cat.)
+= [bold]1 Left 4 Zed[/bold]
+[italic]When applied before mutagen, significantly improves mutation rate, but damages health. Slightly toxic.[/italic]
+
+[bullet/]1 Dexalin + 1 Water + 1 Oxygen
+= 3 [bold]Cryoxadone[/bold]
+[italic]Removes toxin and heals plants, but ages plant back in proportion to its stage of growth.[/italic]
+
+[head=3]Cleaning and Etc.[/head]
+These are other chems that you may or may not be requested to make, though less frequently.
+
+[bullet/]1 Ammonia + 1 Water
+= [bold]2 Space Cleaner[/bold]
+[italic]A janitor's best friend.[/italic]
+
+[bullet/]1 Water + 1 Fersilicite + 1 Oxygen
+= [bold]5 Space Lube[/bold]
+[italic]A common request from mimes and clowns. Can be combined into a foam to make it extra slick.[/italic]
+
+[bullet/]1 Space Lube + 1 Slime + >370K
+= [bold]2 Space Glue[/bold]
+[italic]Less popular than Space Lube, but popular nonetheless for pranks.[/italic]
+
+[bullet/]2 Carbon + 2 Fluorine + 1 Sulfuric Acid
+= [bold]5 Fluorosurfectant[/bold]
+[italic]Produces foam when combined with water, which will spread any chemical within the mixture anywhere the cloud touches. Commonly used for lube bombs.[/italic]
+
+[bullet/]1 Lithium + 1 Hydrogen
+= [bold]1 Foaming Agent[/bold]
+[italic]Base recipe for metal foam, commonly used for emergency or rapid repair of spaced hull sections.[/italic]

@@ -1,0 +1,184 @@
+# Advanced Chemistry guide
+
+This is a rapid walkthrough for creating T3 medicines intended for chemists who don't have the recipes and procedures memorized. This may not be the most efficient guide, but it will ensure that you produce enough medicine in enough time for most emergency situations.
+
+Additional recipes are provided at the bottom of this guide. Note that any recipe requiring blood specifically requires red blood - insect, blue, ammoniated, and synth blood will not work!
+
+[head=3]MAJOR[/head]
+[bullet/]4 Water + 1 Table Salt = 5 Saline
+[bullet/]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet/]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet/]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar = 3 Tranexamic Acid
+[bold]3 Saline + 2 Tranexamic Acid + 1 Iron + 1 Copper + >310K
+= 12 Artiplates[/bold]
+[italic]Reduces bleeding, increases blood, and heals 5 bloodloss. OD over 11u.[/italic]
+
+[bullet/]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet/]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Ethanol = 2 Diethylamine
+[bullet/]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet/]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet/]1 Hydroxide + 1 Benzene = 2 Phenol
+[bold]1 Acetone + 1 Diethylamine + 1 Phenol + 1 Ethanol
+= 4 Atropine[/bold]
+[italic]Increases blood, reduces bleeding, heals 2 asphyx, 0.66 brute, 0.5 burn, 1 poison, and 1 radiation. Best used on crit patients. OD over 35u.[/italic]
+
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Table Salt + 1 Carbon + 1 Oxygen = 4 Sodium Carbonate
+[bullet/]1 Silicon + 1 Carbon = 2 Kelotane
+[bullet/]1 Kelotane + 1 Oxygen + 1 Phosphorus = 3 Dermaline
+[bullet/]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet/]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet/]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet/]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet/]1 Copper + 1 Fersilicite + 1 Plasma(cat.) = 2 Leporazine
+[bold]1 Sodium Carbonate + 1 Dermaline + 1 Phenol + 1 Leporazine
+= 4 Oxandrolone[/bold]
+[italic]Heals 4 burn and 3 caustic over 25 damage, 1 otherwise. OD over 25u.[/italic]
+
+[bullet/]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet/]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet/]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar = 3 Tranexamic Acid
+[bullet/]1 Fluorine + 1 Hydrogen + 1 Potassium + 1 Sulfuric Acid = 4 Fluorosulfuric Acid
+[bullet/]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet/]1 Hydroxide + 1 Sodium = 2 Sodium Hydroxide
+[bullet/] 1 Inaprovaline + 1 Carbon = 2 Bicaridine
+[bold]1 Tranexamic Acid + 1 Fluorosulfuric Acid + 1 Sodium Hydroxide + 1 Bicaridine + >370K
+= 4 Salicylic Acid[/bold]
+[italic]Heals 4 blunt over 25 damage, 1 otherwise. OD over 25u.[/italic]
+
+[bullet/]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet/]1 Sulfuric Acid + 1 Plasma + 1 Potassium = 3 Polytrinic Acid
+[bullet/]1 Potassium + 1 Iodine = 2 Potassium Iodide
+[bullet/]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet/]1 Aluminum + 1 Chlorine + 1 Fluorine + 1 Oil + 1 Potassium Iodide = 5 Haloperidol
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Oil + 1 Oxygen + >380K = 3 Cyanide
+[bold]1 Polytrinic Acid + 1 Potassium Iodide + 1 Haloperidol + 1 Cyanide
+= 4 Pentetic Acid[/bold]
+[italic]Heals 2 poison and 2 rads, clears bloodstream of all other chemicals. Provides rad protection. No OD.[/italic]
+
+[bullet/]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet/]1 Fluorine + 1 Hydrogen + 1 Potassium + 1 Sulfuric Acid = 4 Fluorosulfuric Acid
+[bullet/]2 Oxygen + 1 Plasma(cat.) = 3 Dexalin
+[bullet/]1 Dexalin + 1 Water + 1 Oxygen = 3 Cryoxadone
+[bullet/]1 Radium + 1 Phosphorus + 1 Chlorine = 3 Unstable Mutagen
+[bullet/]1 Cryoxadone + 1 Unstable Mutagen = 2 Doxarubixadone
+[bullet/]1 Silicon + 1 Nitrogen + 1 Potassium = 3 Dylovene
+[bullet/]1 Oxygen + 1 Dylovene + 1 Carbon = 3 Ethylredoxrazine
+[bold]2 Fluorosulfuric Acid + 2 Doxarubixadone + 1 Ethylredoxrazine + >320K
+= 5 Rhymatine[/bold]
+[italic]Heals 2.5 cellular, deals 1.25 shock and cold. Overdose over 10u.[/italic]
+
+[bullet/]2 Oxygen + 1 Sodium + 1 Nitrogen = 4 Sodium Polyacrylate
+[bullet/]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet/]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet/]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bold]2 Acetone + 1 Sodium Polyacrylate + 1 Sulfuric Acid
+= 4 Tirimol[/bold]
+[italic]Heals 6 asphyx, deals 3 stamina damage over time, slows movement speed by 0.75x. Reduces bleeding. OD over 15u.[/italic]
+
+[head=3]EXTRAS[/head]
+1 Inaprovaline + 1 Dylovene
+= 2 Tricordrazine
+
+1 Diethylamine + 1 Oil + 1 Table Salt + 1 Carbon + 1 Ethanol + >377.59K
+= 3 Diphenhydramine
+[italic]Removes 3u histamine and 3 seconds jitter, causes drowsiness, heals 3 poison.[/italic]
+
+1 Hydrogen + 1 Water + 1 Sugar
+= 3 Mannitol
+[italic]Heals brain damage.[/italic]
+
+2 Hydroxide + 1 Table salt + 1 Blood
+= 4 Oculine
+[italic]Heals eye damage.[/italic]
+
+1 Dexalin + 1 Carbon + 1 Iron
+= 3 Dexalin+
+
+1 Ammonia + 1 Carbon + 1 Iron + >540K
+= 2 Amoxla
+
+1 Radium + 1 Dylovene
+= 2 Hyronalin
+
+1 Hyronalin + 1 Hydrogen
+= 2 Arithrazine
+
+1 Carpotoxin + 1 Siderlac + 1 Acetone
+= 1 Cognizine
+[italic]Grants consciousness and generates a ghost role.[/italic]
+
+1 Hyronalin + 1 Ethanol + 1 Unstable Mutagen
+= 3 Phalanximine
+
+2 Phalanximine + 2 Plasma + 1 Doxarubixadone + >400K
+= 3 Opporozidone
+[italic]Reverses rot when below 150K.[/italic]
+
+[head=3]VIROLOGY[/head]
+1 Sugar + 1 Inaprovaline + 1 Iron
+= 3 Immurin
+
+2 Immurin + 1 Copper
+= 2 Devirate (Viral)
+
+2 Immurin + 1 Dylovene
+= 3 Spaceacilin (Bacterial)
+
+1 Zombie blood + 1 Dylovene + 1 Ammonia
+= 4 Ambuzol
+
+5 Ambuzol + 5 Omnizine
+= 10 Ambuzol+
+
+2 Bicaridine + 2 Dylovene + 2 Kelotane + 2 Dexalin
+= 6 Mesophenerol
+
+5 Protoletoferol (electrolyze) + 2 Bicaridine + 0.5 Rhymatine
+OR
+2.75 Bicaridine + 2 Omnizine + 0.25 Rhymatine + >289K
+= 7.5/5 Mesotaxinide
+
+[head=3]CHEMICAL PRODUCTS[/head]
+[bullet/]50u Oil + 20u Sulfuric Acid + 30u Ash + >374K
+[bold]= 50 Plastic[/bold]
+
+[bullet/]10u Sodium Polyacrylate + 10u Phenol + 10u Blood + 10u Carbon
+[bold]= 1 Synthmeat[/bold]
+[italic]Grind to create synthcells, a universal blood donor.[/italic]
+
+[head=3]EXPLOSIVES[/head]
+1 Potassium + 1 Water
+= Basic explosive
+[italic]Explodes on reagent contact.[/italic]
+
+1 Aluminum + 1 Iron + 1 Uranium
+= EMP mix
+[italic]Shorts out electronics.[/italic]
+
+1 Aluminum + 1 Potassium + 1 Sulfur
+= Flashbang mix
+[italic]Stuns and blinds like a flash.[/italic]
+
+3 Fluorine + 1 Chlorine + >370K
+= ClF3 bomb
+[italic]Powerful exothermic reagent that explodes on mixing.[/italic]
+
+[bullet/]1 Nitrogen + 1 Phosphorus + 1 Potassium = 3 EZ Nutrient
+[bullet/]1 Potassium + 1 Chlorine + 1 Sulfuric Acid = 2 Potash
+[bullet/]1 EZ Nutrient + 1 Potash + 1 Nitrogen = 2 Saltpeter + 1 Water
+[bullet/]2 Saltpeter + 1 Sulfuric Acid + >357K = 2 Nitric Acid + 1 Potassium Sulfate
+[bullet/]1 Ethanol + 1 Oxygen = 2 Vinegar
+[bullet/]1 Vinegar + >504K = 1 Ethenone + 1 Water
+[bullet/]1 Vinegar + 1 Ethenone + >323K = 1 Acetic Anhydride + 1 Water
+[bullet/]1 Carbon + 1 Oxygen + >773K = 2 Carbon Dioxide
+[bullet/]4 Hydrogen + 1 Carbon Dioxide + 1 Aluminum (cat.) = 3 Methane + 2 Water
+[bullet/]1 Methane + 1 Water + 1 Oxygen = 3 Methanol
+[bullet/]1 Methanol + 1 Oxygen + 1 Silver (cat.) + >357K = 1 Formaldehyde + 1 Water
+[bullet/]3 Formaldehyde + 2 Ammonia = 5 Hexamine
+[bullet/]1 Nitric Acid + 1 Vinegar + 1 Acetic Anhydride + 1 Hexamine
+= 4 Octogen
+[italic]Extremely powerful explosive, also known as gibmix. Explodes when heated to 553K.[/italic]

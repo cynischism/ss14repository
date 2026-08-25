@@ -1,0 +1,36 @@
+#Alert Level Escalation Request
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]ALERT LEVEL ESCALATION REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]NanoTrasen Representative Communication[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Formal request submitted by the NanoTrasen Representative stationed onboard. This document requests Central Command authorization to escalate the station alert level to Gamma.
+──────────────────────────────────────────
+Approval is required from Central Command. This request does not constitute activation.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NANOTRASEN REPRESENTATIVE[/head]
+[bold]Name:[/bold] [mono]Your Name[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACTION[/head]
+[bold]Requested Alert Level:[/bold] [color=#db7093][mono]GAMMA[/mono][/color]
+[bold]Target Authority:[/bold] [mono]Central Command[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION FOR ESCALATION[/head]
+──────────────────────────────────────────
+• Current station conditions exceed standard containment thresholds
+• Active or escalating threats impacting crew safety / station integrity
+• Standard Security response deemed insufficient or overwhelmed
+• Operational stability at risk without elevated command protocol
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EXPECTED OUTCOMES OF GAMMA DECLARATION[/head]
+──────────────────────────────────────────
+• Martial Law authorization
+• Full Security operational authority
+• Movement restriction enforcement
+• Increased Central Command oversight and response readiness
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NTR RECOMMENDATION[/head]
+──────────────────────────────────────────
+Based on on-site assessment, escalation to Gamma is recommended to preserve station integrity and crew survivability.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SIGNAL TO CENTRAL COMMAND[/head]
+──────────────────────────────────────────
+Awaiting approval, denial, or further instruction.

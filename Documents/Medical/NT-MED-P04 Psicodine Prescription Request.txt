@@ -1,0 +1,61 @@
+# NT-MED-P04 Psicodine Prescription Request
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+      MEDICAL DEPARTMENT - PSYCHOLOGICAL SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT REQUESTS AUTHORIZATION FOR THE PRESCRIPTION OF PSICODINE, A CONTROLLED PSYCHOACTIVE MEDICATION USED IN THE MANAGEMENT OF ANXIETY AND ACUTE PSYCHOLOGICAL DISTRESS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PATIENT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / DEPARTMENT:[/bold]  
+[bold]CURRENT DUTY STATUS:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – CLINICAL INDICATION[/bold][/head]
+[italic][color=#aaaaaa]Select all that apply.[/color][/italic]
+
+( ) ACUTE ANXIETY RESPONSE  
+( ) POST-TRAUMATIC STRESS  
+( ) POST-REVIVAL DISTRESS  
+( ) PANIC OR ACUTE EMOTIONAL DISTRESS  
+( ) OTHER PSYCHOLOGICAL INSTABILITY (specify)
+
+[italic]Brief supporting notes:[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – PRESCRIPTION PARAMETERS[/bold][/head]
+
+[bold]REQUESTED DOSAGE:[/bold]  
+( ) LOW  
+( ) STANDARD  
+( ) SHORT-TERM COURSE ONLY  
+
+[bold]ADMINISTRATION METHOD:[/bold]  
+( ) ORAL  
+( ) INJECTABLE  
+
+[bold]EXPECTED DURATION:[/bold]  
+( ) SINGLE DOSE  
+( ) LIMITED COURSE  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – RISK ACKNOWLEDGEMENT[/bold][/head]
+[italic][color=#aaaaaa]Psicodine suppresses anxiety and psychological distress. Overdosage or unauthorized use may result in hallucinations, perceptual disturbances, and minor toxic shock. Ongoing monitoring is required.[/color][/italic]
+
+( ) RISKS REVIEWED WITH PATIENT  
+( ) PATIENT UNABLE OR UNSUITABLE FOR INFORMED CONSENT
+─────────────────────────────────────────
+[head=3][bold]SECTION E – AUTHORIZATION STATUS[/bold][/head]
+
+( ) PSYCHOLOGICAL SERVICES REQUEST  
+( ) MEDICAL CO-SIGNATURE REQUIRED  
+─────────────────────────────────────────
+[color=#aaaaaa][italic]
+I, the undersigned Psychologist, certify that this request is made in accordance with Nanotrasen Behavioral Health Standard PSY-09 and Controlled Medication Protocol PHARM-12. Final authorization and dispensing are subject to Medical Department and Chemistry approval.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]
