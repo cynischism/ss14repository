@@ -1,0 +1,41 @@
+# KOS DNR Fast-track
+                             [color=#1b67a5]╔══════════════════╗
+                             ║███░███░░░░██░░░░░║
+                             ║░██░████░░░██░░░░░║
+                             ║░░█░██░██░░██░█░░░║
+                             ║░░░░██░░██░██░██░░║
+                             ║░░░░██░░░████░███░║
+                             ╚══════════════════╝[/color]
+                              [head=2][color=FireBrick][mono][ CONFIDENTIAL \][/mono][/color][/head]
+[head=2][color=#1b67a5]═────────────═ · ═────────────═[/color][/head]
+                         [head=2][bold]EXECUTION MANDATE[/bold][/head]
+                                [head=3][mono][color=red]SECURITY DIRECTIVE[/color][/mono][/head]
+══════════════════════════════════════════
+I, [color=#1b67a5][bold]AUTHORIZING OFFICER NAME[/bold][/color], holding the position of [bold]POSITION HERE[/bold], hereby attest that the named individual below is a confirmed threat to the station and has been mandated by Central Command authority to be destroyed on sight. I affirm that all possible efforts have been made to confirm the identity of the threat, and I acknowledge that should it be judged that this identification was incorrect, I will be held personally responsible for the damages inflicted on the executee.
+
+This order is for a swift and immediate execution of the named individual below by Nanotrasen Central Command mandate. No resuscitation, defibrillation, CPR, or other medical intervention is authorized.
+
+[head=3]SUBJECT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Species:[/bold] 
+[bold]Job Title:[/bold] 
+
+[head=3]IDENTITY OF THREAT[/head]
+/[  ] Illegal Magic User
+/[  ] Changeling
+/[  ] Intention to Destroy Station
+/[  ] Other (specify)
+
+[head=3]ADDITIONAL JUSTIFICATION[/head]
+[italic][color=#aaaaaa]Be explicit. "They're dangerous" is not sufficient. Specifiy threat, behavior, and why they must be executed and DNR'd.[/italic][/color]
+
+WRITE HERE
+
+[head=3]CONCURRENCE[/head]
+This order is concurred by the following personnel
+• 
+• 
+• 
+
+══════════════════════════════════════════
+[italic][color=#aaaaaa]This warrant supersedes all standard medical resuscitation protocols. No resuscitation, defibrillation, CPR, or other medical intervention is authorized. Any attempt at revival is a direct violation of this standing order and will be met with disciplinary and legal consequences.[/italic][/color]

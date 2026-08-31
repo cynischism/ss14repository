@@ -1,0 +1,56 @@
+# IAA Departmental Audit - Security
+[color=Crimson]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - SECURITY[/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
+[/color][color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=3]Overall Department Grade:[/head]
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]Head of Security Oversight[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Arrest & Detainee Processing Procedures[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Use of Force & Weapons Protocol[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Evidence & Contraband Management[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Armory & Equipment Accountability[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Personnel Conduct & Rules of Conduct[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Brig Facilities & Security Systems[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+None
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]

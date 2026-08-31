@@ -1,0 +1,33 @@
+# ID Replacement Form
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               HEAD OF PERSONNEL OFFICE - SPACE STATION 14[/color][/bold]
+
+[color=#1b67a5]░░██░░
+▀████▀        [head=3]Replacement ID Form[/head]
+▄█▀▀█▄        
+─────────────────────────────────────────
+[bold]Name/Aliases:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]Current Job:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]Was the card lost or damaged?:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]How was the card lost or damaged?:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]What can be done to avoid this occurring again?:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]What, if any, executive action needs to be taken?:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+[bold]Head of requesting party's department signature:[/bold]
+[italic][color=#1b67a5]Example[/color][/italic]
+─────────────────────────────────────────
+[italic][italic][color=#aaaaaa]New ID card requests are governed by fair use policy 67C3. NT withholds the right to deny any and all applications for a replacement ID dependent on policy 67C3 and any other pertinent criteria designated by NT at the time of the denial of application. Excessive ID loss or damage as laid out in 67C3 is to be compensated for out of personal income and accounts as specified under 67C6 and not uniform work expenditure allowances.[/italic][/italic][/color] 
+
+[italic][color=#aaaaaa]This form is invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document.[/italic][/color]

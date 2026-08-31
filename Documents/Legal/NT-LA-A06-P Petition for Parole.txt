@@ -1,0 +1,44 @@
+# NT-LA-A06-P Petition for Parole
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL PETITION TO STATION AUTHORITY REQUESTING SPECIFIC LEGAL OR ADMINISTRATIVE RELIEF UNDER CORPORATE REGULATION 72-D.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - PETITIONER INFORMATION[/bold][/head]
+[bold]NAME OF PETITIONER:[/bold]
+[bold]EMPLOYEE OR NANOCHAT ID:[/bold]
+[bold]POSITION OR DEPARTMENT:[/bold]
+[bold]LEGAL REPRESENTATIVE (If any):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - TYPE OF RELIEF REQUESTED[/bold][/head]
+[italic]Select all that apply.[/italic]
+
+( ) Administrative exemption  
+(X) Restoration of rights or privileges  
+( ) Compensation or reimbursement  
+( ) Protective order  
+( ) Stay of disciplinary action  
+( ) Review of improper conduct  
+( ) Immediate injunction  
+( ) Other (specify)
+
+[bold]DESCRIPTION OF REQUESTED RELIEF:[/bold]  
+[italic]Request for Parole[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C - BASIS FOR PETITION[/bold][/head]
+[italic]Explain the factual and legal reasons for this petition.[/italic]
+
+[bullet][italic]Write here.[/italic]
+[bullet][italic]Write here.[/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]This petition is submitted for consideration under Regulation 72-D. False or misleading petitions may result in disciplinary action under Regulation 7716(c) - Judicial Misconduct.[/color][/italic]
+
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]
