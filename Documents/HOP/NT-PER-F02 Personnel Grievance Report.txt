@@ -1,0 +1,47 @@
+# Personnel Grievance Report
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REPORT WORKPLACE ISSUES, CONFLICTS, OR CONDUCT CONCERNS. ALL REPORTS WILL BE REVIEWED BY PERSONNEL AND HANDLED ACCORDING TO POLICY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REPORTING CREW MEMBER[/bold][/head]
+
+[bold]NAME:[/bold] [signature]
+[bold]JOB / ROLE:[/bold] [form]
+[bold]DEPARTMENT:[/bold] [form]
+
+([form]) REPORTING ON OWN BEHALF  
+([form]) REPORTING ON BEHALF OF ANOTHER  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – NATURE OF GRIEVANCE[/bold][/head]
+[italic][color=#aaaaaa]Check all that apply.[/color][/italic]
+
+([form]) WORKPLACE CONFLICT  
+([form]) HARASSMENT OR DISRESPECT  
+([form]) ABUSE OF AUTHORITY  
+([form]) UNFAIR TREATMENT  
+([form]) POLICY VIOLATION  
+([form]) OTHER / UNSPECIFIED: [form]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – INDIVIDUAL(S) INVOLVED[/bold][/head]
+
+[bold]NAME(S) AND ROLE(S):[/bold]  
+[form]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – DESCRIPTION OF INCIDENT[/bold][/head]
+[italic][color=#aaaaaa]Provide a factual account. Avoid speculation.[/color][/italic]
+[form]
+─────────────────────────────────────────
+[head=3][bold]SECTION E – WITNESSES (IF ANY)[/bold][/head]
+[form]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]False or malicious reports may result in disciplinary action. Personnel investigations follow NanoTrasen corporate procedure.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

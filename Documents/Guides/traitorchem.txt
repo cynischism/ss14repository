@@ -1,0 +1,129 @@
+# Traitor's Cookbook
+
+So, you're out to kill some people. With access to vestine, you're able to create some of the most potent combat chems known to civilized space, and this guide will give you all the recipes in a condensed format for your reference.
+
+Burn this after you're finished. It sure would suck to get caught because you left this guide in your backpack.
+
+[head=3]Vestine[/head]
+Chems that require vestine as a component.
+
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Ethanol = 2 Diethylamine
+[bullet/]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet/]1 Oil + 1 Hydrogen + 1 Sugar + 1 Diethylamine = 4 Ephedrine
+[bullet/]1 Ephedrine + 1 Vestine + 2 Oxygen + >370K
+= 2 Hyperzine
+[italic]Combat stimulant. Heals 0.25 burn and 0.33 brute over 70 damage. Buffs movement speed by 1.3x, heals 10 stamina damage, suppresses pain, causes adrenanaline, and cancels stun. OD at 20u.[/italic]
+
+[bullet/]2 Vestine + 2 Space Glue + 1 Uranium + >370K
+= 2 Mute Toxin
+[italic]Mutes the victim for min. 10 seconds. Naturally produced by Mimanas.[/italic]
+
+[bullet/]1 Mercury + 1 Oxygen + 1 Water + >370K = 1 Impedrezene
+[bullet/]2 Impedrezine + 1 Vestine
+= 1 Nocturine
+[italic]Forces sleep for min. 3 seconds above 8u.[/italic]
+
+[bullet/]2 Oxygen + 1 Plasma (cat.) = 3 Dexalin
+[bullet/]1 Dexalin + 1 Carbon + 1 Iron = 3 Dexalin+
+[bullet/]1 Silicon + 1 Hydrogen + 1 Dylovene + >370K = 3 Mindbreaker Toxin
+[bullet/]1 Dexalin+ + 1 Mindbreaker Toxin = 2 Heartbreaker Toxin
+[bullet/]1 Heartbreaker Toxin + 1 Plasma + 1 Vestine
+= 2 Lexorin
+[italic]Deals 5 asphyx and 5 bloodloss damage.[/italic]
+
+[bullet/]1 Lead + 1 Zinc = 1 Licoxide
+[bullet/]1 Licoxide + 1 Vestine
+= 2 Tazinide
+[italic]Electrocutes the target, with an 80% chance per tick.[/italic]
+
+[head=3]Toxins[/head]
+Chems that are useful in foam/smoke grenades.
+
+[bullet/]2 Carbon + 2 Fluorine + 1 Sulfuric Acid
+= 5 Fluorosurfectant
+[italic]The basis for a foam grenade, when combined with water.[/italic]
+
+[bullet/]1 Hydrogen + 1 Sulfur + 2 Oxygen = 3 Sulfuric Acid
+[bullet/]1 Fluorine + 1 Hydrogen + 1 Potassium + 1 Sulfuric Acid
+= 4 Fluorosulfuric Acid
+[italic]Deals 8 caustic damage.[/italic]
+
+[bullet/]2 Oxygen + 1 Plasma (cat.) = 3 Dexalin
+[bullet/]1 Dexalin + 1 Carbon + 1 Iron = 3 Dexalin+
+[bullet/]1 Silicon + 1 Hydrogen + 1 Dylovene + >370K = 3 Mindbreaker Toxin
+[bullet/]1 Dexalin+ + 1 Mindbreaker Toxin
+= 2 Heartbreaker Toxin
+[italic]Deals 5 asphyx damage. Easily removed by Dexalin+ and Epinephrine.[/italic]
+
+[bullet/]1 Sulfuric Acid + 1 Plasma + 1 Potassium
+= 3 Polytrinic Acid
+[italic]Deals 11 caustic damage.[/italic]
+
+[bullet/]1 Bicaridine + 1 Bruizine/Lacerinol/Puncturase
+[italic]OR[/italic]
+[bullet/]1 Bruizine/Lacinerol/Puncturase + 1 other of the previous list
+= 2 Razorium
+[italic]Deals 9 slash damage. A common and simple toxin.[/italic]
+
+[bullet/]1 Radium + 1 Phosphorus + 1 Chlorine
+= 3 Unstable Mutagen
+[italic]Deals 3 rads. Best combined with something that heals asphyx damage to prevent easy revival.[/italic]
+
+[head=3]Explosives[/head]
+Chems that explode or catch fire.
+
+[bullet/]1 Chlorine + 3 Fluorine
+= 4 Chlorine Trifluoride
+[italic]Explodes violently when combined. Likely to kill anyone at its center and crit anyone in a tight radius. Use in a cryostasis beaker for an unpleasant grenade.[/italic]
+
+[bullet/]1 Phosphorus + 1 Sulfuric Acid + 1 Plasma
+= 3 Phlogiston
+[italic]Ignites the target. Combine with thermite or napalm to increase the burn damage.[/italic]
+
+[bullet/]1 Charcoal + 1 Saltpeter + 1 Sulfur
+= 3 Black Powder
+[italic]A primitive but powerful explosive. Explodes at 474K.[/italic]
+
+[bullet/]1 Ammonia + 1 Nitric Acid = 2 Ammonium Nitrate
+[bullet/]2 Ammonium Nitrate + 1 Welding Fuel
+= 2 Ammonium Nitrate fuel oil
+[italic]A relatively basic blasting agent. Explodes at 576K.[/italic]
+
+[bullet/]1 Nitrogen + 1 Phosphorus + 1 Potassium = 3 EZ Nutrient
+[bullet/]1 Potassium + 1 Chlorine + 1 Sulfuric Acid = 2 Potash
+[bullet/]1 EZ Nutrient + 1 Potash + 1 Nitrogen = 2 Saltpeter + 1 Water
+[bullet/]2 Saltpeter + 1 Sulfuric Acid + >357K = 2 Nitric Acid + 1 Potassium Sulfate
+[bullet/]1 Carbon + 1 Oxygen + >773K = 2 Carbon Dioxide
+[bullet/]4 Hydrogen + 1 Carbon Dioxide + 1 Aluminum (cat.) = 3 Methane + 2 Water
+[bullet/]1 Methane + 1 Water + 1 Oxygen = 3 Methanol
+[bullet/]1 Methanol + 1 Oxygen + 1 Silver (cat.) + >357K = 1 Formaldehyde + 1 Water
+[bullet/]3 Formaldehyde + 2 Ammonia = 5 Hexamine
+[bullet/]1 Hexamine + 1 Nitric Acid
+= 2 Cyclonite
+[italic]The explosive component of plastic explosives. Explodes at 576K.[/italic]
+
+[bullet/]1 Nitrogen + 1 Phosphorus + 1 Potassium = 3 EZ Nutrient
+[bullet/]1 Potassium + 1 Chlorine + 1 Sulfuric Acid = 2 Potash
+[bullet/]1 EZ Nutrient + 1 Potash + 1 Nitrogen = 2 Saltpeter + 1 Water
+[bullet/]2 Saltpeter + 1 Sulfuric Acid + >357K = 2 Nitric Acid + 1 Potassium Sulfate
+[bullet/]1 Ethanol + 1 Oxygen = 2 Vinegar
+[bullet/]1 Vinegar + >504K = 1 Ethenone + 1 Water
+[bullet/]1 Vinegar + 1 Ethenone + >323K = 1 Acetic Anhydride + 1 Water
+[bullet/]1 Carbon + 1 Oxygen + >773K = 2 Carbon Dioxide
+[bullet/]4 Hydrogen + 1 Carbon Dioxide + 1 Aluminum (cat.) = 3 Methane + 2 Water
+[bullet/]1 Methane + 1 Water + 1 Oxygen = 3 Methanol
+[bullet/]1 Methanol + 1 Oxygen + 1 Silver (cat.) + >357K = 1 Formaldehyde + 1 Water
+[bullet/]3 Formaldehyde + 2 Ammonia = 5 Hexamine
+[bullet/]1 Nitric Acid + 1 Vinegar + 1 Acetic Anhydride + 1 Hexamine
+= 4 Octogen
+[italic]High explosive, equivalent to a point-blank shotgun blast. Also known as "gibmix". Explodes at 553K.[/italic]
+
+[head=3]Other Chems[/head]
+Other useful chems.
+
+[bullet/]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar = 3 Tranexamic Acid
+[bullet/]5 Protoletoferol + 2 Bicaridine + 0.5 Rhymatine = 7.5 Mesotaxinide
+[bullet/]2 Romerol + 4 Mesotaxinide + 2 Tranexamic Acid
+= 5 Letoferol
+[italic]Create your own chimera infection. You should probably only use this if you're to die a glorious death, because fetching zombie blood and injecting someone with this (or the resulting outbreak) will likely kill you.[/italic]

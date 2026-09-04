@@ -1,0 +1,37 @@
+# Performance Review - Internal Affairs Agent
+[color=#477238]
+▀█▀░░░ [head=2]PERSONNEL REVIEW[/head]
+▄█▄▄▀▄ [head=2]PERFORMANCE ASSESSMENT[/head]
+░░░█▀█ [head=3][mono]Performed by [signature][/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Subject: [/bold] [form]
+[bold]Position: [/bold] [form]
+[bold]Shift Time: [/bold] [form]
+[/mono][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]REVIEW SUMMARY[/mono][/head]
+[form]
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]SOP Knowledge & Application[/bold]
+([form]) Exceptional | ([form]) Satisfactory
+([form]) Needs Improvement | ([form]) Unsatisfactory
+
+[bold]Chain of Command Adherence[/bold]
+([form]) Exceptional | ([form]) Satisfactory
+([form]) Needs Improvement | ([form]) Unsatisfactory
+
+[bold]Professional Conduct & Composure[/bold]
+([form]) Exceptional | ([form]) Satisfactory
+([form]) Needs Improvement | ([form]) Unsatisfactory
+
+[bold]Judgment & Decision Making[/bold]
+([form]) Exceptional | ([form]) Satisfactory
+([form]) Needs Improvement | ([form]) Unsatisfactory
+
+[bold]Response to Central Command Authority[/bold]
+([form]) Exceptional | ([form]) Satisfactory
+([form]) Needs Improvement | ([form]) Unsatisfactory
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]By signing, I confirm this review accurately reflects the subject's performance.[/italic]

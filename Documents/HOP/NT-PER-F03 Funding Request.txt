@@ -1,0 +1,37 @@
+# Funding Request Form
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+
+[color=#1b67a5]            [head=3]Funding Request Form[/head]
+            [/color]From: [signature]
+──────────────────────────────────────────
+I am requesting additional funding for the following fund:
+
+([form]) (ENG) Maintenance Savings
+([form]) (MED) Crew Healthcare Fund
+([form]) (RND) Interstellar Development Funding
+([form]) (SEC) Station Defense Reserves
+([form]) (SRV) Collective Service Holdings
+
+──────────────────────────────────────────
+[head=2]Amount[/head]
+
+I am requesting an additional Revenue Division of
+[form]% for the listed fund.
+──────────────────────────────────────────
+[head=2]Reasoning[/head]
+
+Please explain below why this funding is required:
+    [color=#002AAF][form][/color]
+
+Signature:  [color=#002AAF][signature][/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[italic][color=#aaaaaa]This form is invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document.[/italic][/color]

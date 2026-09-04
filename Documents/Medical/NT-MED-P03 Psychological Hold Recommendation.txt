@@ -1,0 +1,33 @@
+# NT-MED-P03 Psychological Hold Recommendation
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+      MEDICAL DEPARTMENT - PSYCHOLOGICAL SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT FORMALLY REQUESTS MEDICAL REVIEW FOR A PSYCHOLOGICAL HOLD OR RESTRICTIVE INTERVENTION.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold] [form] 
+[bold]POSITION / DEPARTMENT:[/bold] [form]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – BASIS FOR RECOMMENDATION[/bold][/head]
+
+([form]) IMMINENT PSYCHOLOGICAL DESTABILIZATION  
+([form]) LOSS OF DECISION-MAKING CAPACITY  
+([form]) RISK TO SELF  
+([form]) RISK TO CREW  
+([form]) POST-REVIVAL INSTABILITY  
+─────────────────────────────────────────
+[head=3][bold]SECTION C – SUPPORTING OBSERVATIONS[/bold][/head]
+
+[italic][form][/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This recommendation is made under Nanotrasen Psychological Safety Directive PSY-06. Final determination and enforcement require Medical Department authorization.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

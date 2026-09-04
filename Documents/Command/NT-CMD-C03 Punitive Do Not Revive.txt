@@ -1,0 +1,48 @@
+# DNR Order
+                             [color=#1b67a5]╔══════════════════╗
+                             ║███░███░░░░██░░░░░║
+                             ║░██░████░░░██░░░░░║
+                             ║░░█░██░██░░██░█░░░║
+                             ║░░░░██░░██░██░██░░║
+                             ║░░░░██░░░████░███░║
+                             ╚══════════════════╝[/color]
+                         [head=2][bold]DO NOT REVIVE ORDER[/bold][/head]
+                                [head=3][mono][color=red]SECURITY DIRECTIVE[/color][/mono][/head]
+══════════════════════════════════════════
+I, [color=#1b67a5][bold][signature][/bold][/color], hereby issue this standing order that no resuscitative measures are to be performed on the below-named individual.
+
+Medical personnel are to provide comfort care only. No resuscitation, defibrillation, CPR, or other medical intervention is authorized.
+
+[head=3]SUBJECT INFORMATION[/head]
+[bold]Name:[/bold] [form]
+[bold]Species:[/bold] [form]
+[bold]Job Title:[/bold] [form]
+
+[head=3]REASON FOR NON-REVIVAL[/head]
+[italic][color=#aaaaaa]Be explicit. "They're dangerous" is not sufficient. Specifiy threat, behavior, and why revival is not an option.[/italic][/color]
+[form]
+
+[head=3]DUE DILIGENCE[/head]
+([form]) Was containment attempted? (Electropack, straitjacket, etc?)
+([form]) Were rehabilitation attempts made? (Counseling, MindShield™ implantation, etc?)
+
+[bold]We have considered and rejected revival due to:[/bold]
+([form]) Subject has demonstrated intent to re-offend.
+([form]) Subject poses an ongoing threat to station personnel.
+([form]) Subject has exhausted all other forms of punishment.
+
+[head=3]LIST OF CRIMES[/head]
+[form]
+
+[head=3]ADDITIONAL JUSTIFICATION[/head]
+[italic][color=#aaaaaa]Include any additional notes about the criminal in question and the decision to DNR them.[/italic][/color]
+[form]
+
+[head=3]CONCURRENCE[/head]
+This order is concurred by the following personnel
+• [signature]
+• [signature]
+• [signature]
+
+══════════════════════════════════════════
+[italic][color=#aaaaaa]This directive supersedes all standard medical resuscitation protocols. Authorized medical personnel are restricted to comfort measures only. Any attempt at resuscitation is a direct violation of this standing order and will be met with disciplinary and legal consequences.[/italic][/color]

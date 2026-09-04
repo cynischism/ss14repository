@@ -1,0 +1,40 @@
+# NT-PER-F02 Official Apology to the Station
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM RECORDS A FORMAL APOLOGY OFFERED TO SPACE STATION 14 AS A CORPORATE ASSET.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CREW MEMBER[/bold][/head]
+
+[bold]NAME:[/bold] [signature]
+[bold]JOB / ROLE:[/bold] [form]
+[bold]DEPARTMENT:[/bold] [form]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – APOLOGY STATEMENT[/bold][/head]
+[italic][color=#aaaaaa]Address the station respectfully.[/color][/italic]
+[form]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – SCOPE OF APOLOGY[/bold][/head]
+
+([form]) DAMAGE  
+([form]) INCONVENIENCE  
+([form]) EMBARRASSMENT  
+([form]) UNSPECIFIED INCIDENT
+─────────────────────────────────────────
+[head=3][bold]SECTION D – ACKNOWLEDGEMENT[/bold][/head]
+[italic][color=#aaaaaa]I understand this apology will be filed, archived, and is not expected to be read.[/color][/italic]
+
+([form]) ACKNOWLEDGED  
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Submission of this form does not constitute forgiveness.[/italic][/color]
+
+
+
+                                        [bold]- SIGN BELOW -[/bold]

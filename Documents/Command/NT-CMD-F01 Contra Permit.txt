@@ -1,0 +1,60 @@
+#Contra Permit
+[color=#cb0000]█▄ █ ▀█▀    [head=2]Contraband Permit[/head] [italic][color=#aaaaaa]C-05[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless stamped! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+                 *Name: [signature]
+*Individual Item: [form]
+
+Until approved or denied, this contraband will be securely withheld from me and the security team by a third party.
+
+Item Description: [form]
+
+What is the specific use case of the item: [form]
+
+How I got this:
+([form]) Salvage/Salvager Trade
+([form]) Maintenance Locker
+([form]) Syndicate Representative
+([form]) Crafted
+([form]) Anonymous Stranger/Discarded in Hallway
+([form]) Named Dealer: [form]
+([form]) Other: [form]
+
+I agree to never:
+([form]) Damage the station core infrastructure.
+([form]) Harm command staff with this item.
+([form]) Harm a security officer with this item.
+([form]) Harm crew members with this item.
+([form]) Damage station equipment with this Item
+
+([form]) I acknowledge that if approved, by breaching of this agreement I consent to any of the following punishments listed below chosen by the Captain.
+
+
+-----------------------------------------------------------------------------
+[head=3]Filled out by Captain only: [/head]
+(Tamper will result in denial and criminal charges)
+
+Emergency to Validate Use (This reason will be reviewed by CentComm at the end of shift): [form]
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Captain Fills out this Section, HoS will select from chosen options upon breach of the permit:
+
+([form]) Permanently assigned a Parole Officer
+([form]) 'Walk of Shame' through a parade route to security for standard sentencing; throwing tomatos is encouraged.
+([form]) Full Demotion to passenger, and a ban on any promotion, due to being a threat to the station.
+([form]) Permanent Brigging due to intentional perjury and exploitation of a permit made in good faith.
+([form]) Exile From the Station, utilizing the Cargo Shuttle and a Security Detail accompanied by a Kill on Sight order upon returning from drop off.
+
+Optional Serial Identification Number: [form]
+If used, please label the single item with the matching serial number. Deviance invalidates the permit.
+
+If denied, the Captain is required to provide a reason, otherwise this request can be appealed with a new form until a reason is provided or the request is approved.
+The Head of Security may also deny this request even if approved Captain if they believe the emrgency to be invalid according to Space Law regulations.
+([form]) 'No Exception' Ban on Syndicate Contraband Possession.
+Otherwise, Mandatory Individual Reason For Denial:
+[form]
+
+
+STAMP BELOW STAMP BELOW STAMP BELOW STAMP BELOW
+===================================================

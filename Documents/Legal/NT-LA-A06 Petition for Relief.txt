@@ -1,0 +1,43 @@
+# NT-LA-A06 Petition for Relief
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL PETITION TO A QUALIFIED MAGISTRATE OR STATION AUTHORITY REQUESTING SPECIFIC LEGAL OR ADMINISTRATIVE RELIEF UNDER CORPORATE REGULATION 72-D.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - PETITIONER INFORMATION[/bold][/head]
+[bold]NAME OF PETITIONER:[/bold] [signature]
+[bold]EMPLOYEE OR NANOCHAT ID:[/bold] [form]
+[bold]POSITION OR DEPARTMENT:[/bold] [form]
+[bold]LEGAL REPRESENTATIVE (If any):[/bold] [signature]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - TYPE OF RELIEF REQUESTED[/bold][/head]
+[italic]Select all that apply.[/italic]
+
+([form]) Administrative exemption  
+([form]) Restoration of rights or privileges  
+([form]) Compensation or reimbursement  
+([form]) Protective order  
+([form]) Stay of disciplinary action  
+([form]) Review of improper conduct  
+([form]) Immediate injunction  
+([form]) Other (specify): [form]
+
+[bold]DESCRIPTION OF REQUESTED RELIEF:[/bold]  
+[italic][form][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C - BASIS FOR PETITION[/bold][/head]
+[italic]Explain the factual and legal reasons for this petition.[/italic]
+
+[form]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]This petition is submitted for consideration under Regulation 72-D. False or misleading petitions may result in disciplinary action under Regulation 7716(c) - Judicial Misconduct.[/color][/italic]
+
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]

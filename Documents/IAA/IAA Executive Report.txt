@@ -1,0 +1,67 @@
+[color=#477238]
+▀█▀░░░ [head=2]IA EXECUTIVE SUMMARY[/head]
+▄█▄▄▀▄ [head=2]STATION REVIEW[/head]
+░░░█▀█ [head=3][mono]Audited by [signature][/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]OVERALL STATION GRADE[/mono][/head]
+[head=3]Station-Wide Rating:[/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]DEPARTMENTAL SCORES[/mono][/head]
+                                        
+[head=2][color=RoyalBlue]COMMAND[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Crimson]SECURITY[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Purple]SCIENCE[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Turquoise]MEDICAL[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Orange]ENGINEERING[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Brown]CARGO[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[head=2][color=Green]SERVICE[/color][/head]
+([form]) EXEMPLARY | ([form]) SATISFACTORY
+([form]) DEFICIENT   | ([form]) CONDEMNED
+[head=3]Summary:[/head]
+[form]
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]CRITICAL FINDINGS[/mono][/head]
+[bold]Areas Requiring Immediate Attention:[/bold]
+[form]
+
+[bold]Areas of Notable Excellence:[/bold]
+[form]
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]RECOMMENDATIONS[/mono][/head]
+[form]
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]Remember to stamp before signing![/italic][/color]

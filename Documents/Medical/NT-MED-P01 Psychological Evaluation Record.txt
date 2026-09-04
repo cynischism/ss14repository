@@ -1,0 +1,53 @@
+# NT-MED-P01 Psychological Evaluation Record
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+      MEDICAL DEPARTMENT - PSYCHOLOGICAL SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS RECORD DOCUMENTS A PSYCHOLOGICAL EVALUATION FOR WELLNESS, RISK ASSESSMENT, OR FITNESS FOR DUTY PURPOSES.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  [form]
+[bold]POISTION / DEPARTMENT:[/bold]  [form]
+[bold]EVALUATION TYPE:[/bold]  
+([form]) ROUTINE  
+([form]) REQUESTED  
+([form]) ORDERED
+([form]) POST-INCIDENT  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – OBSERVED PRESENTATION[/bold][/head]
+
+[bold]AFFECT & BEHAVIOR[/bold]  
+([form]) NEUTRAL  
+([form]) STRESSED  
+([form]) ANXIOUS  
+([form]) WITHDRAWN  
+([form]) AGITATED  
+
+[bold]COGNITIVE FUNCTION[/bold]  
+([form]) INTACT  
+([form]) IMPAIRED  
+([form]) DISORIENTED
+─────────────────────────────────────────
+[head=3][bold]SECTION C – PSYCHOLOGICAL ASSESSMENT[/bold][/head]
+[italic][color=#aaaaaa]Observational summary only.[/color][/italic]
+
+[italic][form][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – RECOMMENDATIONS[/bold][/head]
+
+([form]) NO ACTION REQUIRED  
+([form]) FOLLOW-UP SESSION  
+([form]) MONITORED DUTY  
+([form]) MEDICAL REFERRAL  
+([form]) PSYCHOLOGICAL HOLD RECOMMENDED
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This evaluation was conducted in accordance with Nanotrasen Behavioral Health Standard PSY-01. This document does not constitute a medical order.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

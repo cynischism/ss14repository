@@ -1,0 +1,43 @@
+# NT-MED-P02 Psychological Risk Advisory
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+      MEDICAL DEPARTMENT - PSYCHOLOGICAL SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS ADVISORY COMMUNICATES A PROFESSIONAL PSYCHOLOGICAL RISK ASSESSMENT TO MEDICAL OR COMMAND AUTHORITY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  [form]
+[bold]POSITION / DEPARTMENT:[/bold]  [form]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – IDENTIFIED RISK FACTORS[/bold][/head]
+
+([form]) ACUTE STRESS RESPONSE  
+([form]) DELUSIONAL OR DISORGANIZED THINKING  
+([form]) IMPULSIVITY OR IMPAIRED JUDGMENT  
+([form]) PARANOIA OR DETACHMENT  
+([form]) SELF-ENDANGERMENT  
+([form]) RISK TO OTHERS  
+([form]) UNKNOWN OR ESCALATING
+─────────────────────────────────────────
+[head=3][bold]SECTION C – ASSESSMENT SUMMARY[/bold][/head]
+[italic][color=#aaaaaa]Professional judgment required.[/color][/italic]
+
+[italic][form][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – ADVISORY RECOMMENDATION[/bold][/head]
+
+([form]) NO RESTRICTIONS RECOMMENDED  
+([form]) TEMPORARY DUTY RESTRICTIONS  
+([form]) MEDICAL HOLD CONSIDERATION  
+([form]) SECURITY AWARENESS ADVISED
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This advisory is issued in accordance with Nanotrasen Psychological Risk Assessment Protocol PSY-04. Final authority rests with Medical Department or Command staff.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]
