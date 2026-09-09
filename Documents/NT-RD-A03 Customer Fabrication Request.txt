@@ -1,0 +1,28 @@
+# NT-RD-A03 Customer Fabrication Request
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED BY THE SCIENCE DEPARTMENT TO TRACK REQUESTS FOR FABRICATED EQUIPMENT, PROTOTYPES, AND SPECIAL-ORDER ITEMS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - CUSTOMER INFORMATION[/bold][/head]
+[bold]NAME:[/bold]  [signature]
+[bold]DEPARTMENT:[/bold]  [form]
+[bold]TIME OF REQUEST:[/bold]  [form]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT B - ITEM REQUESTED[/bold][/head]
+[bullet][form]
+[bullet][form]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - PURPOSE OF REQUEST[/bold][/head]
+[italic][form][/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]The Science Department assumes no liability for improper, unauthorized, or unsafe use of fabricated items. Responsibility for all operational risks, misuse, and secondary consequences rests solely with the requester. All equipment must be used in accordance with Nanotrasen workplace safety expectations.[/italic][/color]
+
+               [bold]CUSTOMER SIGNATURE REQUIRED BELOW[/bold]

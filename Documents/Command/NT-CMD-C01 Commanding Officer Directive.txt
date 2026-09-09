@@ -1,0 +1,58 @@
+# Commanding Officer Directive
+[color=#0850a6]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+       STATION COMMAND AUTHORITY - SPACE STATION 14[/color][/bold]
+
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL DIRECTIVE, NOTICE, OR ORDER ISSUED BY THE STATION CAPTAIN TO A SPECIFIED DEPARTMENT, UNDER CORPORATE REGULATION 2-A “CHAIN-OF-COMMAND PRIMACY.”[/bold]
+
+[bold]THIS DOCUMENT IS INVALID WITHOUT STAMP AND form.[/bold]
+─────────────────────────────────────────
+[head=3][bold]DEPARTMENT ADDRESSED[/bold][/head]
+([form]) Security 
+([form]) Engineering
+([form]) Medical
+([form]) R&D  
+([form]) Supply 
+([form]) Service  
+([form]) Command Subdivision  
+─────────────────────────────────────────
+[head=3][bold]NATURE OF COMMUNICATION[/bold][/head]
+([form]) Operational Directive  
+([form]) Performance Concern  
+([form]) Behavioral / Conduct Notice  
+([form]) Emergency Instruction  
+([form]) Resource Allocation Order  
+([form]) Mission / Objective Update  
+([form]) Clarification of Existing Protocol  
+([form]) Commendation / Positive Report  
+([form]) Other: [form]
+─────────────────────────────────────────
+[head=3][bold]CAPTAIN’S MESSAGE[/bold][/head]
+[form]
+─────────────────────────────────────────
+[head=3][bold]REQUIRED ACTIONS FOR THE DEPARTMENT[/bold][/head]
+[italic][List all tasks, adjustments, or procedural changes required.][/italic]
+
+([form]) Acknowledge receipt via comms  
+([form]) Provide follow-up report  
+([form]) Adjust staffing or assignments  
+([form]) Cease prohibited activity  
+([form]) Expedite requested task  
+([form]) Increase oversight or security measures  
+([form]) Implement temporary protocol restrictions  
+([form]) Other action (specify) [form]
+─────────────────────────────────────────
+[head=3][bold]COMPLIANCE NOTICE[/bold][/head]
+[italic]Failure of a department or its head to comply with a Captain-issued directive constitutes a violation of Chain-of-Command Policy, and may result in disciplinary review, reassignment, or removal from duty.[/italic]
+
+[italic]All departmental personnel are expected to adhere to the contents of this communication without delay or reinterpretation. [/italic]
+
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized alteration, refusal, or destruction of this memorandum constitutes procedural misconduct.[/color][/italic]

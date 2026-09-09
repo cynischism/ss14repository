@@ -1,0 +1,87 @@
+[color=#cb0000]█▄ █ ▀█▀    [head=2]Formal Notice of Complaint[/head] [italic][color=#aaaaaa]C-01[/color][/italic]
+█ ▀█     █   [bold][color=red]█ This document invalid unless signed by complaintant! █[/color][/bold]
+   ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪  ▪[/color]
+This document is used to formally report incidents, misconduct, or disputes occurring on station. Submissions will be reviewed by Command and may lead to investigation and/or disciplinary action.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REPORTING PARTY[/head]
+[bold]Name and Role:[/bold] [signature]
+[bold]Department:[/bold] [form]
+──────────────────────────────────────────
+[head=3]SUBJECT OF COMPLAINT[/head]
+[bold]Object of complaint:[/bold]
+([form]) An Individual    ([form]) A Department    ([form]) Other
+[italic]If other, please skip to next section.[/italic]
+
+[bold]The person/department is:[/bold]
+([form]) Science        ([form]) Engineering        ([form]) Service
+([form]) Cargo           ([form]) Passenger           ([form]) Medical
+([form]) Security       ([form]) Command           ([form]) CentComm
+([form]) Other
+
+[italic]If an individual:[/italic]
+Name:    [color=#002AAF][form][/color]
+Role:    [color=#002AAF][form][/color]
+──────────────────────────────────────────
+[head=3]LEGAL REPRESENTATIVE (IF APPLICABLE)[/head]
+[bold]Name:[/bold] [form]
+[bold]Job Title:[/bold] Lawyer
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]TYPE OF COMPLAINT[/head]
+[color=DimGray][italic]Select all that apply.[/italic][/color]
+──────────────────────────────────────────
+([form]) Violation of Space Law      ([form]) Acting against NT interests
+([form]) Destruction of Property   ([form]) Causing a disturbance
+([form]) "Unspeakable Acts"          ([form]) Sabotage of equipment
+([form]) Theft of Property               ([form]) Overly Bureaucratic
+([form]) Overly Rude/Mean            ([form]) Not Bureaucratic Enough
+([form]) General Obnoxiousness
+([form]) Other:    [color=#002AAF][form][/color]
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]INCIDENT SUMMARY[/head]
+[color=DimGray][italic]Provide a concise description of the incident, including time, location and action taken[/italic][/color]
+──────────────────────────────────────────
+[form]
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]WITNESSES OR INVOLVED PARTIES[/head]
+──────────────────────────────────────────
+[bold]Personnel Involved:[/bold]
+([form]) Just Me    ([form]) A few people    ([form]) One department
+([form]) Multiple Departments    ([form]) Whole Station
+
+If applicable, please provide names below:
+[bullet][form]
+[bullet][form]
+[bullet][form]
+
+[bold]Were witnesses present?[/bold]
+([form]) Yes    ([form]) No    ([form]) I don't know
+
+If yes, please provide names below:
+[bullet][form]
+[bullet][form]
+[bullet][form]
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EVIDENCE OR SUPPORTING INFORMATION[/head]
+[color=DimGray][italic]List any physical evidence, logs, recordings, or injuries relevant to the report.[/italic][/color]
+──────────────────────────────────────────
+[form]
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACTION[/head]
+[color=DimGray][italic]What would you like to happen as a result of this report?[/italic][/color]
+──────────────────────────────────────────
+([form]) Formal investigation
+([form]) Conflict mediation
+([form]) Clarification of SOP/Space Law
+([form]) Formal note on record
+([form]) Legal escalation
+([form]) Demotion of complaint target
+([form]) Other [color=DimGray][italic](specify)[/italic][/color]: [form]
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I, [signature], affirm that the information provided above is accurate to the best of my knowledge.
+
+[bold]After you have completed the form, submit it to the Captain, the HoP, or another relevant command head for review. Refrain from involving multiple commanding officers unless absolutely necessary. False or malicious reports may result in disciplinary action.[/bold]

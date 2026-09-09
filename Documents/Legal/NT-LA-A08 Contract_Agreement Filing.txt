@@ -1,0 +1,63 @@
+# NT-LA-A08 Contract / Agreement Filing
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL FILING OF A CONTRACT OR AGREEMENT BETWEEN TWO OR MORE PARTIES, RECOGNIZED UNDER CORPORATE REGULATION 81-H. ONCE SIGNED AND STAMPED, THIS DOCUMENT BECOMES A BINDING INTERNAL CORPORATE AGREEMENT.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - PARTIES TO THE AGREEMENT[/bold][/head]
+[bold]PARTY 1 NAME AND ROLE:[/bold] [signature]
+[bold]PARTY 2 NAME AND ROLE:[/bold] [signature]
+[bold]ADDITIONAL PARTIES (If any):[/bold] [form]
+[bold]LEGAL REPRESENTATIVE(S) (If any):[/bold] [signature]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - TYPE OF AGREEMENT[/bold][/head]
+[italic]Select all applicable categories.[/italic]
+
+([form]) Contract for services  
+([form]) Labor or duty agreement  
+([form]) Inter-department cooperation agreement  
+([form]) Resource or supply allocation agreement  
+([form]) Settlement or resolution agreement  
+([form]) Research or data-sharing pact  
+([form]) Personal or civil arrangement  
+([form]) Other (specify):
+
+[bold]TITLE OR SHORT DESCRIPTION OF AGREEMENT:[/bold]  
+[italic][form][/italic] 
+─────────────────────────────────────────
+[head=3][bold]SECTION C - TERMS AND CONDITIONS[/bold][/head]
+[italic]List the obligations, expectations, and duties of each party.[/italic]
+
+[form]
+
+([form]) Mindshield implant required?
+([form]) Tracking implant required?
+─────────────────────────────────────────
+[head=3][bold]SECTION D - DURATION AND CONDITIONS OF TERMINATION[/bold][/head]
+[italic]Specify when the agreement begins, when it ends, and how it may be terminated.[/italic]
+
+[bold]EFFECTIVE TIME:[/bold]  
+[italic][form][/italic]
+
+[bold]TERMINATION CONDITIONS:[/bold]  
+[italic][form][/italic]
+
+[bold]DURATION OR EXPIRATION (If applicable):[/bold]  
+[italic][form][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION E - SUPPORTING MATERIALS[/bold][/head]
+[italic]List any attached appendices, documents, logs, or evidence relevant to this agreement.[/italic]
+
+[italic][form][/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa] This agreement is filed under Regulation 81-H and may be reviewed, amended, or voided only in accordance with Legal Affairs Protocol 5-L. Knowingly signing a fraudulent or coercive agreement may result in disciplinary action under Regulation 7716(c).[/color][/italic]
+
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]

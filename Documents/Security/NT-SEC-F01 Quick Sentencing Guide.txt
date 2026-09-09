@@ -1,0 +1,56 @@
+# Sentencing Reference
+[color=#134975]█▄ █ ▀█▀    [head=3]NT Justice Department[/head]
+█ ▀█     █        Quick Crime Sentencing Memo[/color]
+───────────────────────────────────
+[head=2][bold]Subject:[/bold] [form][/head]
+……………………………………………………………………………………………
+[head=2][color=#4D2E2E][bold]Violent Crime[/color][/bold][/head]
+[bullet]2-01 ([form]) Animal Cruelty (3 mins)
+[bullet]3-01 ([form]) Assault/Battery (6 mins)
+   └ 3-04 ([form]) Manslaughter (10 mins)
+[bullet]4-01 ([form]) Attempted Murder (5 mins)
+   └ 4-03 ([form]) Murder (10 mins)
+[bullet]5-02 ([form]) Prevention of Revival (Capital)
+   └ 5-01 ([form]) Mass Murder (Capital)
+……………………………………………………………………………………………
+[head=2][color=#2E422E][bold]Property Crime[/color][/bold][/head]
+[bullet]1-03 ([form]) Possession of Illegal Substances (3 mins)
+   └ 2-05 ([form]) Possession of Restricted Gear (4 mins)
+       └ 3-06 ([form]) Possession of Restricted Weaponry (6 mins)
+[bullet]1-02 ([form]) Petty Theft (3 mins)
+[bullet]3-03 ([form]) Grand Theft (6 mins)
+……………………………………………………………………………………………
+[head=2][color=#453A59][bold]Property Damage[/color][/bold][/head]
+[bullet]1-05 ([form]) Vandalism (2 mins)
+[bullet]2-02 ([form]) Destruction of Property (4 mins)
+[bullet]3-04 ([form]) Mass Destruction (6 mins)
+[bullet]5-04 ([form]) Terrorism (Capital)
+……………………………………………………………………………………………
+[head=2][color=#641327][bold]Risk to others[/color][/bold][/head]
+[bullet]2-03 ([form]) Endangerment (4 mins)
+[bullet]4-02 ([form]) Unlawful Control/Kidnapping (10 mins)
+……………………………………………………………………………………………
+[head=2][color=#59563A][bold]Access Crime[/color][/bold][/head]
+[bullet]1-04 ([form]) Trespass (2 min)
+[bullet]3-07 ([form]) Secure Trespass (8 min)
+……………………………………………………………………………………………
+[head=2][color=#3B4354][bold]Protest Crime[/color][/bold][/head]
+[bullet]1-01 ([form]) Disturbance (2 mins)
+[bullet]2-06 ([form]) Rioting (4 min)
+……………………………………………………………………………………………
+[head=2][color=#593A4E][bold]Disobedience[/color][/bold][/head]
+[bullet]2-04 ([form]) Failure to Comply (2 mins)
+[bullet]3-03 ([form]) Breach of Arrest (4 mins)
+[bullet]3-08 ([form]) Breach of Custody (4 mins)
+[bullet]5-03 ([form]) Refusal of Mental Shielding (Capital)
+
+─────────────────────────────────────────
+[color=#134975][head=2]Total Time:
+[bold][form] mins[/bold][/head][/color]
+
+[italic][color=#aaaaaa]All times are maximum but not recommended sentences.
+Nested crimes do not stack; only use most severe offense.
+Give more leniency for first time offenses and compliance.
+Repeat offenses incur more punishment.[/color][/italic]
+
+
