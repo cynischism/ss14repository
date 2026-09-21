@@ -1,0 +1,102 @@
+#Psychologist's Medicine Cabinet
+
+The following recipes are specialized for use in the psychologist's office, to be prescribed following a consultation.
+
+* Controlled substances will be starred. These should require a written prescription and should be cleared with the Chief Medical Officer before entering the patient's custody.
+
+[head=3]MEDICAL CONDITIONS[/head]
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bullet]1 Phenol + 1 Acetone + 1 Chlorine + 1 Hydroxide = 4 Epinephrine
+[bullet]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet]1 Ammonia + 1 Ethanol = 2 Diethylamine
+[bullet]1 Oil + 1 Hydrogen + 1 Sugar + 1 Diethylamine = 4 Ephedrine
+[bullet]1 Ephedrine + 1 Carbon + 1 Iodine + 1 Phosphorus + 420K>x>370K = 4 Desoxyephedrine
+[bullet]1 Desoxyephedrine + 1 Stellibinin = 2 Ethyloxyephedrine
+[bullet]1 Ammonia + 1 Table Salt + 1 Carbon + 1 Oxygen = 3 Sodium Carbonate
+[bullet]1 Ethyloxyephedrine + 1 Sodium Carbonate + 1 Coffee
+= [bold]3 Diphenylmethylamine*[/bold]
+[italic]Prevents narcolepsy for 10 minutes per 5u.[/italic]
+
+[bullet]1 Silicon + 1 Nitrogen + 1 Potassium = 3 Dylovene
+[bullet]1 Oxygen + 1 Dylovene + 1 Carbon
+= [bold]3 Ethylredoxrazine[/bold]
+[italic]Causes mild drunkness, removes 6 seconds of drunkenness. Heals 0.5 poison in non-Yowie.[/italic]
+
+[bullet]1 Hydrogen + 1 Water + 1 Sugar = 3 Mannitol
+[bullet]1 Mercury + 1 Oxygen + 1 Water + >370K = 1 Impedrezene
+[bullet]2 Mannitol + 2 Water + 1 Impedrezene
+= [bold]4 Psicodine*[/bold]
+[italic]Removes 2 seconds jitter, 6 seconds drunk. Reduces psychiatric disturbance. Overdose at 30u. Common prescription for Thaven in command positions.[/italic]
+
+[head=3]PAIN MANAGEMENT[/head]
+[bullet]1 Carbon + 1 Ash = 1 Charcoal
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Charcoal + 1 Benzene + 1 Fluorine
+= [bold]3 Ibuprofen[/bold]
+[italic]Suppresses pain, heals 0.33 brute. Overdose at 20u.[/italic]
+
+[bullet]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bullet]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet]1 Acetone + 1 Inaprovaline + 1 Ethanol
+= [bold]3 Tramadol*[/bold]
+[italic]Suppresses pain, causes adrenaline. Overdose over 15u. Don't combine with alcohol.[/italic]
+
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet]2 Phenol + 1 Nitrogen + 1 Oxygen
+= [bold]4 Morphine[/bold]
+[italic]Causes 2.5 seconds drowsiness with accumulation, suppresses pain. May cause difficulty breathing. Mild overdose at 16u.[/italic]
+
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bullet]1 Phenol + 1 Acetone + 1 Chlorine + 1 Hydroxide = 4 Epinephrine
+[bullet]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet]1 Ammonia + 1 Ethanol = 2 Diethylamine
+[bullet]1 Oil + 1 Hydrogen + 1 Sugar + 1 Diethylamine = 4 Ephedrine
+[bullet]1 Ephedrine + 1 Carbon + 1 Iodine + 1 Phosphorus + 420K>x>370K = 4 Desoxyephedrine
+[bullet]1 Mercury + 1 Oxygen + 1 Water + >370K = 1 Impedrezene
+[bullet]2 Desoxyephedrine + 3 Impedrezene + 1 Fourteen Loko + 1 Bleach + 420K>x>410K
+= [bold]1 Fentanyl*[/bold] + 1 vent crud + 2 Space Glue
+[italic]Deals 0.25 poison and 0.75 asphyx, 5% chance to inflict 1 slash over 5u. Causes stuttering, jittering, hallucinations, and drunkenness, suppresses pain, decreases speed to 0.8x, and has a 5% chance to paralyze. Overdose over 5u.[/italic]
+
+[head=3]THERAPEUTICS[/head]
+[bullet]1 Hydrogen + 1 Water + 1 Sugar
+= [bold]3 Mannitol[/bold]
+[italic]Heals brain damage. Reduces psychiatric disturbance.[/italic]
+
+[bullet]3 Chlorine + 1 Ethanol + 1 Water
+= [bold]1 Chloral Hydrate*[/bold]
+[italic]Slows movement to 0.65x and causes drowsiness without accumulation past 8u. Overdose at 20u.[/italic]
+
+[bullet]1 Silicon + 1 Nitrogen + 1 Potassium = 3 Dylovene
+[bullet]1 Silicon + 1 Hydrogen + 1 Dylovene + >370K = 3 Mindbreaker Toxin
+[bullet]1 Lithium + 1 Sugar + 1 Water = 3 Synaptizine
+[bullet]1 Mindbreaker Toxin + 1 Synaptizine + 1 Water
+= [bold]3 Pax*[/bold]
+[italic]Causes pacification for 4 seconds without accumulation, decreases strength and immunity by a minor amount.[/italic]
+
+[bullet]1 Table Salt + 1 Sugar + 1 Water
+= [bold]3 Copium[/bold]
+[italic]Comforts and boosts mood.[/italic]
+
+[bullet]1 Banana Juice + 1 Sugar = 2 Laughter
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet]1 Oil + 1 Welding Fuel + 1 Oxygen = 2 Acetone
+[bullet]1 Phenol + 1 Acetone + 1 Chlorine + 1 Hydroxide = 4 Epinephrine
+[bullet]5 Plasma (cat.) + 2 Laughter + 1 Epinephrine + 1 Ethanol
+= [bold]4 Happiness[/bold] + 5 Plasma
+[italic]Heals 0.5 burn/rads and 0.33 brute, causes hallucinations. Addictive and may cause brain damage.[/italic]
+
+[bullet]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet]1 Water + 1 Fersilicite + 1 Oxygen = 5 Space Lube
+[bullet]2 Uranium + 1 Banana Juice + 1 Space Lube + >420K
+= [bold]4 Honk[/bold]
+[italic]20% chance to honk, deals 0.06 poison to animal organs. Overdose at 30u.[/italic]

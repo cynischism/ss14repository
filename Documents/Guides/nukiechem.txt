@@ -1,0 +1,87 @@
+# Corpsman's Shopping List
+
+Essential mixes for any nuclear corpsman.
+
+[head=3]MEDICINES[/head]
+[bullet]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet]1 Ammonia + 1 Table Salt + 1 Carbon + 1 Oxygen = 4 Sodium Carbonate
+[bullet]1 Silicon + 1 Carbon = 2 Kelotane
+[bullet]1 Kelotane + 1 Oxygen + 1 Phosphorus = 3 Dermaline
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydrogen + 1 Carbon + >310K = 1 Benzene
+[bullet]1 Hydroxide + 1 Benzene = 2 Phenol
+[bullet]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet]1 Copper + 1 Fersilicite + 1 Plasma(cat.) = 2 Leporazine
+[bold]1 Sodium Carbonate + 1 Dermaline + 1 Phenol + 1 Leporazine
+= 4 Oxandrolone[/bold]
+[italic]Heals 4 burn and 3 caustic over 25 damage, 1 otherwise. OD over 12u.[/italic]
+
+[bullet]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar = 3 Tranexamic Acid
+[bullet]1 Fluorine + 1 Hydrogen + 1 Potassium + 1 Sulfuric Acid = 4 Fluorosulfuric Acid
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Hydroxide + 1 Sodium = 2 Sodium Hydroxide
+[bullet] 1 Inaprovaline + 1 Carbon = 2 Bicaridine
+[bold]1 Tranexamic Acid + 1 Fluorosulfuric Acid + 1 Sodium Hydroxide + 1 Bicaridine + >370K
+= 4 Salicylic Acid[/bold]
+[italic]Heals 4 blunt over 25 damage, 1 otherwise. OD over 12u.[/italic]
+
+[bullet]4 Water + 1 Table Salt = 5 Saline
+[bullet]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar = 3 Tranexamic Acid
+[bold]3 Saline + 2 Tranexamic Acid + 1 Iron + 1 Copper + >310K
+= 12 Artiplates[/bold]
+[italic]Reduces bleeding, increases blood, and heals 5 bloodloss. OD over 11u.[/italic]
+
+[bullet/]3 Hydrogen + 1 Nitrogen = 4 Ammonia
+[bullet/]1 Ammonia + 1 Ethanol = 2 Diethylamine
+[bullet/]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet/]1 Oil + 1 Hydrogen + 1 Sugar + 1 Diethylamine = 4 Ephedrine
+[bold]1 Ephedrine + 1 Vestine + 2 Oxygen + >370K
+= 2 Hyperzine[/bold]
+[italic]Combat stimulant. Heals 0.25 burn and 0.33 brute over 70 damage. Buffs movement speed by 1.3x, heals 10 stamina damage, suppresses pain, causes adrenanaline, and cancels stun. OD at 20u.[/italic]
+
+[head=3]WEAPONS[/head]
+[bullet/]1 Phosphorus + 1 Sulfuric Acid + 1 Plasma
+= [bold]3 Phlogiston[/bold]
+[italic]Ignites the target. Combine with thermite or napalm to increase the burn damage.[/italic]
+
+[bullet]1 Welding Fuel + 1 Hydrogen + 1 Carbon = 3 Oil
+[bullet]1 Oil + 1 Welding Fuel + 1 Ethanol
+= [bold]3 Napalm[/bold]
+[italic]Increases target flammability.[/italic]
+
+[bullet]1 Iron + 1 Aluminum + 1 Oxygen
+= [bold]3 Thermite[/bold]
+[italic]Increases fire temperature.[/italic]
+
+[head=3]USEFUL MIXES[/head]
+[bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
+[bullet]1 Bicaridine + 1 Hydroxide + >325K
+= [bold]2 Puncturase[/bold]
+[italic]Heals 2.5 piercing, deals 0.05 rads. OD over 12u.[/italic]
+[bullet]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
+[bullet]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
+[bullet]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar
+= [bold]3 Tranexamic Acid[/bold]
+[italic]Reduces bleeding. OD at 15u.[/italic]
+-Combine 2 Puncturase:1 Tranexamic Acid:2 Salicylic Acid to supplement ballistics damage healing.
+
+[bullet]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet]1 Fersilicite + 1 Copper + 1 Plasma (cat.) = 2 Leporazine
+[bullet]1 Silicon + 1 Carbon = 2 Kelotane
+[bullet]1 Kelotane + 1 Oxygen + 1 Phosphorus = 3 Dermaline
+[bullet]1 Leporazine + 1 Dermaline + 1 Carbon
+= [bold]3 Pyrazine[/bold]
+[italic]Heals 1 heat. OD over 20u.[/italic]
+[bullet]1 Iron + 1 Silicon + >310K = 2 Fersilicite
+[bullet]1 Fersilicite + 1 Copper + 1 Plasma (cat.)
+= [bold]2 Leporazine[/bold]
+[italic]Heals 4 cold and stabilizes body temp. Removes 5u Fresium. No OD.[/italic]
+-Combine 2 Pyrazine:1 Leporazine:2 Oxandrolone for longer-term laser damage healing.
+
+-Combine Artiplates and Hyperzine/Ephedrine 2:1 to get operatives back in the fight faster.
+
+-Combine Salicylic Acid and Oxandrolone 1:1 to cover all possible injuries when under assault from mixed armaments.
