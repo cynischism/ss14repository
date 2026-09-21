@@ -61,7 +61,7 @@ Essential mixes for any nuclear corpsman.
 [bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
 [bullet]1 Bicaridine + 1 Hydroxide + >325K
 = [bold]2 Puncturase[/bold]
-[italic]Heals 2.5 piercing, deals 0.05 rads. OD over 12u.[/italic]
+[italic]Heals 4 piercing, deals 0.1 blunt. OD over 12u.[/italic]
 [bullet]1 Oxygen + 1 Carbon + 1 Sugar = 3 Inaprovaline
 [bullet]2 Oxygen + 1 Hydrogen + 1 Sulfur = 3 Sulfuric Acid
 [bullet]1 Inaprovaline + 1 Sulfuric Acid + 1 Sugar
