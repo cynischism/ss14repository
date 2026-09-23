@@ -12,7 +12,7 @@ Essential mixes for any nuclear corpsman.
 [bullet] 1 Inaprovaline + 1 Carbon = 2 Bicaridine
 [bold]1 Tranexamic Acid + 1 Fluorosulfuric Acid + 1 Sodium Hydroxide + 1 Bicaridine + >370K
 = 4 Salicylic Acid[/bold]
-[italic]Heals 4 blunt over 25 damage, 1 otherwise. OD over 12u.[/italic]
+[italic]Heals 4 brute over 25 damage, 1 otherwise. OD over 12u.[/italic]
 
 [bullet]1 Oxygen + 1 Hydrogen + >310K = 2 Hydroxide
 [bullet]1 Bicaridine + 1 Hydroxide + >325K
