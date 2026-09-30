@@ -1,0 +1,65 @@
+# Narcolepsy Prescription Request
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                              MEDICAL DEPARTMENT [/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT REQUESTS AUTHORIZATION FOR THE PRESCRIPTION OF DIPHENYLMETHYLAMINE, A CONTROLLED SUBSTANCE USED TO MANAGE SYMPTOMS OF NARCOLEPSY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PATIENT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  [form]
+[bold]JOB / DEPARTMENT:[/bold]  [form]
+[bold]CURRENT DUTY STATUS:[/bold]  [form]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – CLINICAL INDICATION[/bold][/head]
+[italic][color=#aaaaaa]Select all that apply.[/color][/italic]
+
+[bold]RELEVANT DIAGNOSIS:[/bold]
+([check]) ACUTE ACQUIRED NARCOLEPSY
+([check]) CHRONIC NARCOLEPSY
+([check]) OTHER (specify): [form]
+
+[bold]PURPOSE OF REQUIREMENT:[/bold]
+([check]) COMBAT-READY ROLE
+([check]) EVA REQUIREMENT
+([check]) COMMAND STAFF ACCOMODATION
+([check]) OTHER (specify): [form]
+
+[italic]Brief supporting notes:[/italic]  
+[italic][form][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – PRESCRIPTION PARAMETERS[/bold][/head]
+
+[bold]REQUESTED DOSAGE:[/bold]  
+([check]) STANDARD  
+([check]) SHORT-TERM COURSE ONLY  
+
+[bold]ADMINISTRATION METHOD:[/bold]  
+([check]) ORAL  
+([check]) INJECTABLE  
+
+[bold]EXPECTED DURATION:[/bold]  
+([check]) LIMITED COURSE  
+([check]) REFILL AS NEEDED
+─────────────────────────────────────────
+[head=3][bold]SECTION D – RISK ACKNOWLEDGEMENT[/bold][/head]
+[italic][color=#aaaaaa]Diphenylmethylamine is a derivative of ephedrine used to combat the symptoms of narcolepsy. Extended or improper use may cause degenerative stress injuries to the heart, lungs, and central nervous system. Routine monitoring is strongly recommended.[/color][/italic]
+
+([check]) RISKS REVIEWED WITH PATIENT  
+([check]) PATIENT UNABLE OR UNSUITABLE FOR INFORMED CONSENT
+─────────────────────────────────────────
+[head=3][bold]SECTION E – AUTHORIZATION STATUS[/bold][/head]
+
+([check]) PERSONNEL SERVICES REQUEST  
+([check]) MEDICAL CO-SIGNATURE REQUIRED  
+─────────────────────────────────────────
+[color=#aaaaaa][italic]
+I, [signature], certify that this request is made in accordance with Nanotrasen Controlled Medication Protocol PHARM-12. Final authorization and dispensing are subject to Medical Department and Chemistry approval.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

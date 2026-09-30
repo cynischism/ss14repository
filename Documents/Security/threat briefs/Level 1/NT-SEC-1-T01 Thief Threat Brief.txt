@@ -1,0 +1,38 @@
+#NT-SD-1-T01 Threat Brief
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]CLASSIFICATION: [color=#cb0000]LEVEL 1 – DECLASSIFIED[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]THREAT OVERVIEW[/bold][/head]
+Thieves are average Nanotrasen crew members with the goal of procuring specific items for their own benefit. While thieves are not considered inherently dangerous to the crew, they may engage in activities which increase the odds of incidental harm to others.
+
+Thieves are rarely directly violent and do not typically require armed intervention. It is, however, beneficial to monitor them to ensure they do not cause further issues.
+─────────────────────────────────────────
+[head=3][bold]IDENTIFICATION MARKERS[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]BEHAVIORAL PROFILE[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]THREAT CAPABILITIES[/bold][/head]
+
+[bold] [/bold]  
+[bullet] 
+─────────────────────────────────────────
+[bold] [/bold]  
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]RECOMMENDED RESPONSE[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]AUTHORIZED EQUIPMENT[/bold][/head]
+[bullet] 
+─────────────────────────────────────────

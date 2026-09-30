@@ -1,0 +1,54 @@
+# IAA Audit - Command
+[color=#1b67a5]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - COMMAND[/head]
+░░░█▀█ [head=3][mono]AUDITOR: [signature][/mono][/head]
+[/color][color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[mono][bold]Shift Time: [/bold][form][/mono]
+
+[head=3]Overall Department Grade:[/head]
+([check]) EXEMPLARY | ([check]) SATISFACTORY
+([check]) DEFICIENT   | ([check]) CONDEMNED
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+[form]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]Captain Oversight & Command Presence[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Chain of Command Adherence[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Corporate Policy Compliance[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Asset Management[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Interdepartmental Coordination[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Crisis Response & Decision Making[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Leadership Conduct & Professionalism[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+[form]
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]

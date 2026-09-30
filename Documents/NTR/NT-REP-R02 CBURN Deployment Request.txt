@@ -1,0 +1,41 @@
+# CBURN UNIT DEPLOYMENT REQUEST
+[color=DarkGreen]█▄ █ ▀█▀    [head=3]NanoTrasen™[/head]
+█ ▀█     █        [color=#AFAFAF]Building a better tomorrow, today.
+─────────────────────────────────────────
+[mono][head=2][color=#4D4D4D]CBURN UNIT DEPLOYMENT REQUEST[/head][/color][/mono]
+─────────────────────────────────────────[/color][/color]
+
+[mono][head=2][color=#4D4D4D]| OVERVIEW:[/head][/color][/mono]
+
+[mono][head=3]NanoTrasen Representative:[/head][/mono]
+[signature]       
+──────────────   
+
+[mono][head=3]Purpose[/head][/mono]
+Formal request submitted by the NanoTrasen Representative stationed onboard for Central Commands authorization to deploy a Chemical, Biological, Radiological and Nuclear (CBURN) unit to assist in station stabilization.
+
+[mono][head=2][color=#4D4D4D]| NATURE OF REQUEST:[/head][/color][/mono]
+
+[mono][head=3]Justification[/head][/mono]
+> Confirmed or suspected biohazard outbreak
+> Rapid infection spread beyond Medical containment
+> Failure of quarantine or containment protocols
+> High risk of station-wide contamination
+
+[mono][head=3]Expectation[/head][/mono]
+> Containment and elimination of biohazardous threats
+> Enforcement of quarantine zones
+> Decontamination of affected areas
+> Neutralization of infected personnel if required
+
+[mono][head=2][color=#4D4D4D]| VERDICT:[/head][/color][/mono]
+
+[mono][head=3]NTR Recommendation[/head][/mono]
+Deployment of a CBURN unit is recommended to contain the ongoing biohazard threat and to prevent total station compromise.
+
+[mono]Notes:[/mono]
+[form]
+
+[mono][head=3]Cue to Central Command[/head][/mono]
+Awaiting approval, denial, or further instruction.
+[italic][color=#aaaaaa]Central Command approval is required prior to deployment.[/italic][/color]

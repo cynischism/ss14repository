@@ -1,0 +1,37 @@
+# Performance Review
+[color=#477238]
+▀█▀░░░ [head=2]PERSONNEL REVIEW[/head]
+▄█▄▄▀▄ [head=2]PERFORMANCE ASSESSMENT[/head]
+░░░█▀█ [head=3][mono]Performed by [signature][/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Subject: [/bold] [form]
+[bold]Position: [/bold] [form]
+[bold]Shift Time: [/bold] [form]
+[/mono][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]REVIEW SUMMARY[/mono][/head]
+[form]
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]SOP Knowledge & Application[/bold]
+([check]) Exceptional | ([check]) Satisfactory
+([check]) Needs Improvement | ([check]) Unsatisfactory
+
+[bold]Chain of Command Adherence[/bold]
+([check]) Exceptional | ([check]) Satisfactory
+([check]) Needs Improvement | ([check]) Unsatisfactory
+
+[bold]Professional Conduct & Composure[/bold]
+([check]) Exceptional | ([check]) Satisfactory
+([check]) Needs Improvement | ([check]) Unsatisfactory
+
+[bold]Judgment & Decision Making[/bold]
+([check]) Exceptional | ([check]) Satisfactory
+([check]) Needs Improvement | ([check]) Unsatisfactory
+
+[bold]Response to Central Command Authority[/bold]
+([check]) Exceptional | ([check]) Satisfactory
+([check]) Needs Improvement | ([check]) Unsatisfactory
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]By signing, I confirm this review accurately reflects the subject's performance.[/italic]

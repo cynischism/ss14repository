@@ -1,0 +1,42 @@
+[head=3]EXPLOSIVES[/head]
+1 Potassium + 1 Water
+= Basic explosive
+[italic]Explodes on reagent contact.[/italic]
+
+1 Aluminum + 1 Iron + 1 Uranium
+= EMP mix
+[italic]Shorts out electronics.[/italic]
+
+1 Aluminum + 1 Potassium + 1 Sulfur
+= Flashbang mix
+[italic]Stuns and blinds like a flash.[/italic]
+
+[bullet/]1 Chlorine + 3 Fluorine + >370K
+= 4 Chlorine Trifluoride
+[italic]Explodes violently when combined. Likely to kill anyone at its center and crit anyone in a tight radius. Use in a cryostasis beaker for an unpleasant grenade.[/italic]
+
+[bullet/]1 Phosphorus + 1 Sulfuric Acid + 1 Plasma
+= 3 Phlogiston
+[italic]Ignites the target. Combine with thermite or napalm to increase the burn damage.[/italic]
+
+[bullet/]1 Charcoal + 1 Saltpeter + 1 Sulfur
+= 3 Black Powder
+[italic]A primitive but powerful explosive. Explodes at 474K.[/italic]
+
+[bullet/]1 Ammonia + 1 Nitric Acid = 2 Ammonium Nitrate
+[bullet/]2 Ammonium Nitrate + 1 Welding Fuel
+= 2 Ammonium Nitrate fuel oil
+[italic]A relatively basic blasting agent. Explodes at 576K.[/italic]
+
+[bullet/]1 Nitrogen + 1 Phosphorus + 1 Potassium = 3 EZ Nutrient
+[bullet/]1 Potassium + 1 Chlorine + 1 Sulfuric Acid = 2 Potash
+[bullet/]1 EZ Nutrient + 1 Potash + 1 Nitrogen = 2 Saltpeter + 1 Water
+[bullet/]2 Saltpeter + 1 Sulfuric Acid + >357K = 2 Nitric Acid + 1 Potassium Sulfate
+[bullet/]1 Carbon + 1 Oxygen + >773K = 2 Carbon Dioxide
+[bullet/]4 Hydrogen + 1 Carbon Dioxide + 1 Aluminum (cat.) = 3 Methane + 2 Water
+[bullet/]1 Methane + 1 Water + 1 Oxygen = 3 Methanol
+[bullet/]1 Methanol + 1 Oxygen + 1 Silver (cat.) + >357K = 1 Formaldehyde + 1 Water
+[bullet/]3 Formaldehyde + 2 Ammonia = 5 Hexamine
+[bullet/]1 Hexamine + 1 Nitric Acid
+= 2 Cyclonite
+[italic]The explosive component of plastic explosives. Explodes at 576K.[/italic]

@@ -1,0 +1,54 @@
+# IAA Departmental Audit - Security
+[color=Crimson]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - SECURITY[/head]
+░░░█▀█ [head=3][mono]AUDITOR: [signature][/mono][/head]
+[/color][color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[mono][bold]Shift Time: [/bold][form][/mono]
+
+[head=3]Overall Department Grade:[/head]
+([check]) EXEMPLARY | ([check]) SATISFACTORY
+([check]) DEFICIENT   | ([check]) CONDEMNED
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+[form]
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]Head of Security Oversight[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Arrest & Detainee Processing Procedures[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Use of Force & Weapons Protocol[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Evidence & Contraband Management[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Armory & Equipment Accountability[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Personnel Conduct & Rules of Conduct[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[bold]Brig Facilities & Security Systems[/bold]
+([check]) Meets standards | ([check]) Needs improvement
+([check]) Critical failure | ([check]) Irrelevant/Unknown
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+[form]
+
+[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]

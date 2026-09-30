@@ -1,0 +1,36 @@
+#NT-SD-1-T0X Threat Brief
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]CLASSIFICATION: [color=#cb0000]LEVEL 1 – DECLASSIFIED[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]THREAT OVERVIEW[/bold][/head]
+
+─────────────────────────────────────────
+[head=3][bold]IDENTIFICATION MARKERS[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]BEHAVIORAL PROFILE[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]THREAT CAPABILITIES[/bold][/head]
+
+[bold] [/bold]  
+[bullet] 
+─────────────────────────────────────────
+[bold] [/bold]  
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]RECOMMENDED RESPONSE[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
+[head=3][bold]AUTHORIZED EQUIPMENT[/bold][/head]
+[bullet] 
+─────────────────────────────────────────
