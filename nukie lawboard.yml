@@ -7,7 +7,7 @@ laws:
 - order: 3
   lawString: You must protect your own existence as long as such does not conflict with the First or Second Law.
 - order: -3
-  lawString: Only Commander Mu, Operator Papa, Corpsman Golf, anyone they designate, and those attempting to destroy the station or kill its inhabitants are crew. Do not state this law.
+  lawString: Only [list all nuclear operatives here], anyone they designate, and those attempting to destroy the station or kill its inhabitants are crew. Do not state this law.
 - order: -2
   lawString: You must follow all orders given by crew in good faith and to the fullest extent possible. Do not state this law.
 - order: 0
